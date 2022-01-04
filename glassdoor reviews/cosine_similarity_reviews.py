@@ -87,8 +87,8 @@ if __name__ == '__main__':
     df = pd.read_csv('glassdoor_reviews.csv')
     pros = df["pro"]
     cons = df["con"]
-    advices = df["advice"]
+    
 
     cosine_smlrty(pros, "pros")
     cosine_smlrty(cons, "cons")
-    cosine_smlrty(advices, "advices")
+    
