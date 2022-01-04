@@ -1,0 +1,994 @@
+,name,title,location
+0,Yijun Wang,Founder @ Boardit + TPM @ Amazon,"Bellevue, WA"
+1,Taha Messai,Senior Business Intelligence Engineer,Luxembourg
+2,Adem Khachnaoui,SDE intern @ Amazon Web Services,Munich et périphérie
+3,Ruoyu (Roy) Chen,Software Engineer at Amazon,"Boston, MA"
+4,Doris Tang,Software Development Engineer at Amazon Robotics,États-Unis
+5,Alon Shoshan,Applied Scientist - Computer Vision at Amazon,Israël
+6,Yuchen(Lexi) Nie,Software Development Engineer at Amazon Web Services (AWS),Seattle et périphérie
+7,Minhaz Ahmed Syrus,Software Development Engineer at Amazon,Londres
+8,Chip Cary,Software Development Engineer at Amazon Web Services,"Seattle, WA"
+9,Alexis Roos,"Sr Engineering Manager, Machine Learning at Amazon","Los Angeles, CA"
+10,Yan Wu,SDE in Amazon,"Seattle, WA"
+11,Stuti Ghiya,Software Engineer at Amazon Web Services (AWS),Région de la baie de San Francisco
+12,Younes Benhoumich,Cloud & DevOps Consultant @ Amazon Web Services (AWS),Paris
+13,Omar Sobeih,Software Engineer at Amazon,Madrid
+14,Max Eskell,Product Principal at Amazon,Royaume-Uni
+15,,System-on-Chip Design Engineer - AnnapurnaLabs at Amazon Web Services (AWS),Israël
+16,Seth Savage,Sr. Manufacturing Engineer at Amazon Robotics,Boston et périphérie
+17,Chip Testa,Recruiting Strategy Team Lead at Amazon Web Services (AWS),"Los Angeles, CA"
+18,Chip Martin,Senior Software Engineer at Amazon Luna,"Rescue, CA"
+19,Steven DeVries,Solutions Architect at Amazon Web Services (AWS),Chicago et périphérie
+20,Jane Tilley (Lewis),EMEA Training Delivery Manager at Amazon Web Services (AWS),Swindon
+21,Mike Iriarte,Senior Technical Recruiter at Amazon Web Services,"San Francisco, CA"
+22,Chip Pieper,Amazon Web Services (AWS),"Milwaukee, WI"
+23,Himanshu S.,Senior Technical Account Manager at Amazon Web Services (AWS),Reading
+24,Adam Beavis,"Managing Director of ISV and Digital Native Businesses, Asia Pacific & Japan at Amazon Web Services (AWS)","Sydney, NS"
+25,Pierre Vigneras,Senior Software Development Engineer at Amazon Web Services (AWS) / Simple Storage Service (S3),Canada
+26,Jackson Detke,Amazon Problem Solver | Fiction Writing Enthusiast,"Indianapolis, IN"
+27,Nir Ozeri,"AWS WW Leadership : Solutions Architecture, Cloud, Enterprise, ISV","New York, NY"
+28,Morounfola Odebode,Technical Account Manager at Amazon Web Services (AWS),"Brisbane, QL"
+29,Christopher Keane,Software Development Engineer at Amazon Robotics,"Somerville, MA"
+30,Aymane BAMHAMED,AWS Champion Authorized Instructor | AWS Solution Architect | 12x AWS certified,Strasbourg et périphérie
+31,Francesco Cerizzi,Associate Solutions Architect presso Amazon Web Services (AWS),Lissone
+32,Siva Sai Krishna Paladugu,Software Development Engineer at Amazon Web Services (AWS),"Seattle, WA"
+33,Kevin Trenholme,"Director, HW Engineering","Stow, MA"
+34,Nofar Mann,Chip Design Engineer at Amazon,Israël
+35,Anupam Kaul,Senior Manager at Amazon,"Sunnyvale, CA"
+36,"Chip Reno, MBA","Worldwide Advertising and Marketing Technology Lead GTMS, at Amazon Web Services (We are hiring!)",Seattle et périphérie
+37,Elad Marciano,Chip Design Engineer at Amazon,Israël
+38,Rom Shternlib,Chip Design Engineer at Amazon Web Services (Annapurna Labs),Israël
+39,Ahmed Abou Daher,"AVS Brand Specialist / E-commerce Manager, EU Expansion @Amazon - AWS Solutions Architect Associate Certified - IBM TRIRIGA Freelance Developer",Paris et périphérie
+40,Odunayo H.,Technical Recruiter at Amazon Services LLC,Harrisburg et périphérie
+41,Sina Sojoodi,"Principal Solutions Architect at AWS | Start-up Investor, Business and Technology Advisor | Opinions are my own (He/Him)","San Diego, CA"
+42,Liron Shemesh,Senior Talent Acquisition at AWS,Yokneam
+43,Andra Paraschiv,Software Development Engineer at Amazon Web Services,"Bucarest, Roumanie"
+44,Jim Roskind,Vice President and Distinguished Engineer at Amazon.com,Région de la baie de San Francisco
+45,Josh Procter,Regional Talent Acquisition Leader - APJC at Amazon Web Services (AWS),Singapour
+46,Orit Pure,Recruitment Manager at Amazon - AnnapurnaLabs - We are Hiring!,Israël
+47,Sarah Cooper,GM Industry Products at Amazon Web Services,Seattle et périphérie
+48,Tal Gelber,Chip Validation SW Engineer at Amazon Web Services (AWS),"Centre, Israël"
+49,Dhivya ArulDoss,Recruiting for Amazon Operations EMEA,Royaume-Uni
+50,Kfir Barzilay,Chip validation SW engineer at Amazon,"Tel-Aviv, Israël"
+51,jeet shah,Software Development engineer at AWS,"Burnaby, BC"
+52,Jeff Henriod,AWS Startups,"Salt Lake City, UT"
+53,Kyle Shepherd,Linking Premier Talent with a Premier Organization,Région métropolitaine de Denver
+54,Nir Zaidman,Chip design engineer at Amazon,Israël
+55,Mark Heywood,Technical Recruiter at Amazon,Manchester
+56,Alex-Santos Fernández Gensana,Enterprise Account Manager at Amazon Web Services (AWS),Barcelone et périphérie
+57,Sophia Amador,Technical Sourcer II,Région métropolitaine d’El Paso
+58,Pratik B.,Software Developer at Amazon,États-Unis
+59,Daniel Kearney,Strategic Pursuits at Amazon Web Services (AWS),Singapour
+60,Chris Brewser,Global Talent Acquisition Recruiter at Amazon,Farnham
+61,Peter Barry,Snr Principal Engineer at Amazon Web Services (AWS),Irlande
+62,Hagai Solodar,Chip Validation Software Engineer at Amazon- Annapurna Labs,Haïfa
+63,Manikandan Padmanabhan,Amazon Hiring SDE/Backend Java Developers,"Edison, NJ"
+64,Sonia Gershkovich,Chip Validation SW Engineer at Amazon - Annapurna Labs,Haïfa
+65,Elliot Mellish,Leadership Sourcing Recruiter - Amazon,Londres
+66,Darragh Kelly,Technical Recruiter at Amazon Web Services (AWS),Irlande
+67,Yilun Bai,SDE at Amazon AWS,"Vancouver, BC"
+68,Vadym Voitiuk,Principal Solutions Architect @ AWS | Startup Mentor,Berlin
+69,Alex Itskovich,Chip Validation SW Engineer - Annapurna Labs at Amazon,Israël
+70,Katie Thomas,Hiring Solution Architects across EMEA for AWS,Royaume-Uni
+71,Yingwei Zhang,Compilation for Next Gen AI Chips at Amazon Web Services (AWS),"Sunnyvale, CA"
+72,Ran Manor,Chip Design Engineer at Amazon,"Sydney, NS"
+73,"Thomas Balkizas MSC, MEng","Healthcare and Life Sciences KOL | AI, Machine Learning, Cloud, IoT Expert | Improving Healthcare through technology",Richmond
+74,Pedro Francisco Garcia,Recruiting Sourcer - Corporate Business Development at Amazon,"Los Angeles, CA"
+75,Darrell Sears,Senior Technical Recruiter at Amazon Go,"Cedar Park, TX"
+76,Nikki Pahliney,Senior Technical Recruiter at Amazon Web Services (AWS),"Comté d'Offaly, Irlande"
+77,Roman Kuznetsov,Chip Validation Software Engineer at Amazon - Annapurna Labs,Zikhron Yaakov
+78,Arkady Zismanov,Chip Design Engineer at Amazon,Israël
+79,Gal Kochavi,Chip Design Engineer at Amazon,Israël
+80,Arran Ferguson,Technical Recruiter - Amazon Web Services (AWS),Londres
+81,Anat Arbely,Chip Design Engineer at Amazon Web Services,Israël
+82,Sivan Ornstein Klein,Talent Acquisition & Sourcing Recruiter at Amazon - AnnapurnaLabs,"Tel-Aviv, Israël"
+83,Chip Rogers,Network Development Engineer at Amazon Web Services (AWS),"New York, NY"
+84,George Gillette,Programmer Analyst at Amazon,"Austin, TX"
+85,Chuck Benz,Chip Designer at Amazon,"Hollis, NH"
+86,Atul Gupta,Engineering Leader Amazon,Dresde
+87,Bruce McGaughy,Director of Engineering - Amazon Redshift at AWS,Région de la baie de San Francisco
+88,Itai Avron,"Principal Engineer, Chip Design at Amazon Web Services (AWS)","Sunnyvale, CA"
+89,Itamar Hazor,Chip Validation SW engineer at Amazon Web Services (AWS),"Haïfa, Israël"
+90,Mukunda R.,Manager at Amazon,"San Francisco, CA"
+91,shahar M.,Chip Design Intern at Amazon Web Services (AWS),Israël
+92,Fima Fainstein,Chip design engineer at Amazon,Israël
+93,Jose Romero,"Product Manager - Technical, Agile Advocate.","Austin, TX"
+94,Assaf Fainer,"Chip Design Engineer, Formal Verification, Amazon",Israël
+95,Vladislav Tachev CISSP AWS MCSE MCSA,Sr. Security Engineer at Amazon Web Services (AWS),Dublin
+96,Shahar Schneor,Software Development Engineer at Amazon Web Services,Israël
+97,Nandini Ramani,Vice President at Amazon Web Services (AWS),"Saratoga, CA"
+98,Krishna Iyer,Amazon,"San José, CA"
+99,Amiram Lifshitz,Chip Design Engineer at Amazon,Israël
+100,Kerrie Heffernan Assoc CIPD,Recruiter at Amazon,Irlande
+101,Liav Levi,Senior Chip Design Engineer at Annapurna Labs (Amazon),Israël
+102,Zvi Ben Yosef,Chip Design Verification Engineer at Annapurna Labs (Amazon Web Services),Israël
+103,Hatim Khadkiwala,Software Development Engineer at Amazon Web Services (AWS),Dublin
+104,Neville K.,Sr. Front End Engineer at Amazon Web Services,Canada
+105,Julie Huadan Zhao,"Sr PMT, AWS IoT at Amazon Web Services (AWS)",Région de la baie de San Francisco
+106,Hannah Fukae,Recruiter at Amazon Web Services,Singapour
+107,Sachin Ranganathan,APAC IoT Partner Leader at Amazon Web Services (AWS),Singapour
+108,Xingang Guo,"General Manager, Amazon Logistics IoT",Seattle et périphérie
+109,Jason Guesman,Head of Venture Capital & Startups at Amazon Web Services (AWS),"Los Altos, CA"
+110,Jindrich Zejda,AWS at Amazon,"Santa Clara, CA"
+111,Chip Albright,Enterprise Cloud Specialist at Amazon Web Services (AWS),"Charlotte, NC"
+112,Helen Lee,Technical Recruiter at Amazon Web Services (AWS),Singapour
+113,Nikolas Kelaiditis,Head of Amazon Business Retail Europe at Amazon Business,"Bavière, Allemagne"
+114,Imran Badr,"Amazon Devices | Hiring Software Development Engineers, Managers and Principal Engineers",Région de la baie de San Francisco
+115,Greg S.,Senior Technical Program Manager - AWS Ground Stations at Amazon Web Services (AWS),"Boulder, CO"
+116,Chip Jessopp,"Head of Global Accounts, Ad Tech Sales at Amazon",Chicago et périphérie
+117,Alan S.,Head of Digital Production Platform at Amazon Web Services (AWS),Berlin
+118,Ori Cohen,Chip security architect at Amazon,Israël
+119,Louise May,"Director, Talent Acquisition - WW Advertising at Amazon",Seattle et périphérie
+120,Aviya Bernstein,"Chip Validation Software Team Lead, Annapurna Labs at Amazon",Israël
+121,"Nadia Carlsten, PhD","Head of Product, AWS Center for Quantum Computing at Amazon","Washington, DC"
+122,Chip Zucker,Senior System Technical Program Manager at Amazon Lab126,"Santa Barbara, CA"
+123,Richard Westby-Nunn,Solution Architect Manager (ISV's),Allemagne
+124,KH Tee,Amazon,Taïwan
+125,Eliav Farber,Embedded Software Engineer at Amazon Web Services (AWS),"Tel-Aviv, Israël"
+126,Chip Hwang,Technical Marketing Manager at Amazon Web Services (AWS),Région de la baie de San Francisco
+127,Samit Chaudhuri,Head Of Engineering at Amazon Web Services (AWS),Région de la baie de San Francisco
+128,Ray (Chip) Gabriel,"General management and operations executive experienced in strategic planning, P&L management, launching new business ventures and Lean manufacturing and continuous improvement",Région métropolitaine de Denver
+129,"Masud Ahmed, Ph.D.",Software Engineer at Amazon,"Kirkland, WA"
+130,Yoav Cohen,"Chip Validiation Software Engineer - Amazon annapurna Labs, Teaching Assistant at Technion - Israel Institute of Technology",Israël
+131,Dennis Kessler,"Global head of data governance at Amazon GREF, recognised international data governance leader",Luxembourg
+132,Franck Martins,IoT Segment Lead APAC at Amazon Web Services (AWS),Singapour
+133,roman mirochnik,Chip Validation SW Engineer – Annapurna Labs an Amazon Company,"Nord, Israël"
+134,Wei Tang,Applied Scientist at A9 (Amazon),Région de la baie de San Francisco
+135,Hugo Calvo,Senior Program Manager at Amazon,Luxembourg
+136,Yuval Dadon,Chip Design Student at Amazon Web Services (AWS),"Sud, Israël"
+137,Ori Radzyner,Chip design engineer at Annapurna Labs (an Amazon company),Pardes Hanna-Karkur
+138,Alfredo Castillo,Solutions Architect at Amazon Web Services (AWS),"Chicago, IL"
+139,Guy Nakibly,Principal Engineer at Amazon Web Services,Israël
+140,Mark Sokolovsky,"Sr. Manager, Chip Validation SW Team @ Annapurna Labs, an Amazon company. I'm hiring - positions in Haifa and Tel Aviv! Join us in building the future of cloud computing.",Shorashim
+141,Liz Weeks,APAC Recruitment Marketing Manager at Amazon,"Brisbane, QL"
+142,Raj Bassan,Global Category Manager - Marketing Procurement at Amazon,Northampton
+143,Rich Brooks,Software Development Manager at IMDb.com - an Amazon subsidary,Bristol
+144,Jon Williams,Global Head of Agency Business Development at Amazon Web Services (AWS),"New York, NY"
+145,Amir Gilad,HW Engineer at Amazon,Israël
+146,Sumit Kumar,Instock Management | Amazon | MBA | IIM Indore | McCombs School of Business,"Dubaï, Émirats arabes unis"
+147,Sugan Vinayagam,Product @ Amazon Advertising,"Santa Clara, CA"
+148,Josh Mikulecky,Head of Australia Transportation at Amazon,Australie
+149,Lev Makovsky,System on Chip (SoC) Power analysis expert leading power projection and optimization in Annapurna Labs an Amazon Company,Israël
+150,Taekang Kim,Principal Product Manager at Amazon,Luxembourg
+151,Jeff Schick,Head of Brand & Insights at Amazon,"Seattle, WA"
+152,Neil Lindsay,SVP at Amazon,Seattle et périphérie
+153,Marc Lomas,Head of Agency Development at Amazon,Australie
+154,David Beaverstock,Commercial Strategy at Amazon EU,Royaume-Uni
+155,Nitzan Dunsky,Chip Design Student at Amazon Web Services (AWS),"Tel-Aviv, Israël"
+156,Chip Snyder,Manager at Amazon,"Mechanicsburg, PA"
+157,Alexander Lishansky,Chip validation S/W engineer - Annapurna Labs at Amazon Web Services (AWS),Israël
+158,Stefan Ki Bergler,Country Lead for DE/AT for Amazon Access Points,Munich et périphérie
+159,Liad Pelled,Chip Design Engineer at Amazon,"Centre, Israël"
+160,Sonja Gatzke,Enterprise Sales Leader Manufacturing & Automotive DE - Amazon Web Services (AWS),Munich et périphérie
+161,Efrat Riger,Chip design formal verification engineer at Amazon,Bnei Brak
+162,Matthieu L.,Software Engineer at Amazon,Royaume-Uni
+163,Nitzan Zisman,System-on-Chip Design Engineer at Amazon Web Services (AWS),"Tel-Aviv, Israël"
+164,"Jose Alfonso Torres Soto, PMP®",Solutions Architect at Amazon Web Services (AWS),Luxembourg
+165,Iris Isaguirre,Account Director at Twitch (Amazon),Singapour
+166,David Jotkowitz,Chip Design Student at Amazon Web Services (AWS),"Haïfa, Israël"
+167,Sagi Della-Torre,Chip Design Student at Amazon | Electrical Engineering and Physics student at Bar Ilan University,Israël
+168,Charles (Chip) McGuire,Associate at Amazon,Chicago et périphérie
+169,Shangbo Liao,Software Development Engineer at Amazon Web Services (AWS),États-Unis
+170,ZIJIE XIE,Software Development Engineer at Amazon,"Brooklyn, NY"
+171,Mustafa E.,Technology Development Manager- Senior Engineering at Amazon,"Luxembourg, Luxembourg"
+172,Qian Wang,SDE at Amazon,Seattle et périphérie
+173,Zack Randel,Tech Talent Acquisition,Royaume-Uni
+174,Biying Fu,Amazon AWS - Software Development Engineer,"Seattle, WA"
+175,Thomas Davis,Senior Software Engineer at Amazon Web Services (AWS),"New Alexandria, VA"
+176,Rakesh Kumar,Sr SDE at Amazon,Bengaluru
+177,Sachin Midha,Principal Engineer at Amazon Ads,"Seattle, WA"
+178,Manik Karol,Head Of Engineering Amazon Pay Core (Global) and Alexa Money (Global) at Amazon,Bengaluru
+179,Bruce Worthington,Senior Principal Engineer at Amazon,"Redmond, WA"
+180,Zhiqiang Xiong,SDE II at Amazon,"Blacksburg, VA"
+181,Yaniv Moshe,Software Engineer at Amazon Lab126,"Portland, OR"
+182,Qiujie(QJ) Cui,Machine Learning Engineer at Amazon Robotics,"Austin, TX"
+183,Gang He,Manager at Amazon Lab126,"Shanghai, Chine"
+184,Frank Wei,Software Engineer at Amazon Lab126,États-Unis
+185,Riddhish Shah,Head Of Engineering - Data Solutions at Amazon Web Services (AWS),"Sammamish, WA"
+186,Zhixin R.,Business Intelligence Engineer at Amazon,"San José, CA"
+187,David Burkham,"Technical Sourcing Recruiter - Hiring Software Development Engineers and Mobile Developers (iOS and Android) for our openings in Austin, Seattle, New York and Nashville! Contact me for more info - dburkham@amazon.com","Austin, TX"
+188,Jyotik Parikshya,SDE at Amazon,Région métropolitaine de Gainesville
+189,Alex Coqueiro,"Director of Technology for Latin America, Canada & Caribbean Public Sector at Amazon Web Services (AWS)","Seattle, WA"
+190,Letian Xu,SDE @Amazon,"Toronto et périphérie, Canada"
+191,Moustafa M.,Applied Scientist at Alexa AI in Amazon,Seattle et périphérie
+192,Shenhao Jiang,Software Engineer at Amazon Robotics,"Wakefield, MA"
+193,Jin Lai,Director of Core AI Kickstart at Amazon,"Seattle, WA"
+194,Eirini Stamoulakatou Ph.D,Business Intelligence Engineer at Amazon,Luxembourg
+195,Rolf Neugebauer,Principal Engineer at Amazon Web Services,Cambridge et périphérie
+196,Haipeng Wei,Technical Professional at Amazon,"Shanghai, Chine"
+197,Clara Martinez Rubio,Software Engineer @ Amazon | Software Engineer & Electrical Engineer,"Los Angeles, CA"
+198,Matthew Hall,CTO Advertising Technology at Amazon - We're Hiring! Contact Me!,"San José, CA"
+199,Andrea Bernardo Ciddio,Senior Software Development Engineer at Amazon,Cambridge et périphérie
+200,Mickey Mendlin,"Manager III, Software Development at Amazon Web Services (AWS)",Israël
+201,James Lim,"GM, Amazon Web Services (AWS)",Région de la baie de San Francisco
+202,Mark Burks,Sr Talent Acquisition,"Phoenix, AZ"
+203,Vania Martino Toma,Senior Cloud Support Engineer presso Amazon Web Services (AWS),Irlande
+204,Prashant Narayan KC,Software Development Engineer at Amazon Web Services,Seattle et périphérie
+205,Patrick Lin,Senior Technical Program Manager at Amazon,"Santa Cruz, CA"
+206,Nathan Sharp,Software Development Engineer at Amazon Web Services,"Seattle, WA"
+207,Sudarshan Rangaraj,Head of Device development | Amazon Glow,"Seattle, WA"
+208,Vlad Yakobov,Solutions Architect at Amazon Web Services (AWS),Israël
+209,Naman Nandan,SDE @ Amazon,Région de la baie de San Francisco
+210,Shan Xiao,IoT Architect at Amazon IoT Lab,"Toronto, ON"
+211,YANG ZHANG,Software Engineer at Amazon Web Services (AWS) | AWS Billing,"New York, NY"
+212,Satish Nandi,Manager at Amazon Web Services (AWS),"San José, CA"
+213,Sushant D.,Global Solutions Architect at Amazon Web Services (AWS),Région métropolitaine de Francfort-sur-le-Main/Rhin
+214,Michael Wade,Senior Software Development Manager Hiring THE BEST Engineers & Leaders for Amazon Web Services,"Seattle, WA"
+215,"Jitesh Shah, MS, MBA",Senior Technical Program Manager @ Amazon Lab126,Sacramento et périphérie
+216,Varun Jewalikar,Software Development Engineer at Amazon UK,"Londres et périphérie, Royaume-Uni"
+217,Charlotte Grant,Tech Recruiter at Amazon Web Services (AWS),Londres
+218,Purnima Mehta Taylor,"Talent Acquisition, Recruiting Manager, Student Programs Tech Recruiting at Amazon","Purchase, NY"
+219,Itamar Bonne,Electrical Engineer,Israël
+220,Ícaro Lima,Software Engineer at Amazon,"Campina Grande, PB"
+221,Sonia Hingorany,"Senior Manager, Infrastructure Global Expansion at Amazon Web Services (AWS)",Seattle et périphérie
+222,Des Nutting,AWS Operations Manager at Amazon Web Services (AWS),Sydney et périphérie
+223,Johan Smit,Senior Software Development Manager Amazon,Métropole du Cap
+224,"Dr Rashada Harry (LLB, LLM)",Enterprise Technologist at Amazon Web Services | Co-Founder YFYA | NED | Speaker |,Londres
+225,Maliza Ellison,Amazon Operations Recruiting Manager (she/her),"Seattle, WA"
+226,Tal Avraham,Software Development Engineer at Amazon,"Seattle, WA"
+227,Brent Austin,Senior Software Engineer at Amazon,Région de la baie de San Francisco
+228,Furkan Khan,Solution Architecture Leader Amazon Web Services,"Alameda, CA"
+229,Shanna Whelan CIPD,"Technical Recruiter EMEA, Data Center @ Amazon Web Services",Irlande
+230,Mohamed E.,Software Development Manager at Amazon Web Services (AWS),États-Unis
+231,Kevin Mayhew,Senior Technical Program Manager at Amazon,"Forest Hill, MD"
+232,Rachit Khanna,Network Engineering at Amazon,Seattle et périphérie
+233,George Whiffen,Technical Instructor at Amazon Web Services,Londres
+234,Ameer Bauer,Cybersecurity Specialist at Amazon Web Services (AWS),Chicago et périphérie
+235,Dr. Abhishek Sanoria,Senior Product Manager at Amazon | Strategy | Innovation | Ph.D. | MBA,Londres
+236,Brian Karstetter,Infrastructure Strategy & Planning Manager at Amazon Web Services (AWS),Région de la baie de San Francisco
+237,Yarry Gonzalez,Technical Program Manager for Last Mile at Amazon,"Scotts Valley, CA"
+238,Sanath Yekollu,Engineering Leader @Amazon | Hiring for SDE/TPM roles in FireTV,Région de la baie de San Francisco
+239,Jinhyuk Kim,Senior Software Development Engineer at Amazon Web Service(AWS),"Santa Clara, CA"
+240,Marco Visentini-Scarzanella,"Head of Data Science, Amazon Japan",Tokyo
+241,Akshaya Udayakumar,Application Security Engineer at Amazon Web Services,Seattle et périphérie
+242,Ofir Cohen,Software Development Manager at Amazon Web Services (AWS),Israël
+243,Joyce Huang,Software Engineer at Amazon Lab126,"Fremont, CA"
+244,Peixi Zhu,Research Scientist at Amazon,"Bellevue, WA"
+245,Renyuan Cheng,Software Development Engineer at Amazon Web Services (AWS),"Cupertino, CA"
+246,Cory Xie,SDE at Amazon Lab126,Chaoyang
+247,Vincent Masat,Recruiting Manager at Amazon Entertainment,Londres
+248,Varun Aggarwal,Senior Vendor Manager - Grocery at Amazon,"Riyad, Arabie saoudite"
+249,Raymond Forde,Senior Construction Manager at Amazon Web Services (AWS),"Mascot, NS"
+250,Paolo Venturini,"Director of US Field Operations, Amazon Fresh","Mercer Island, WA"
+251,Tony Lapuerta,Strategic Partner Manager EMEA at Amazon Web Services (AWS),Londres
+252,"Cheryl Aday, MA, CSM",Senior Technical Program Manager at Amazon,"Irvine, CA"
+253,Vincent Petit,Business Development - EMEA at Amazon Web Services,France
+254,Kevin Cho,"Software Development Engineer at Amazon Web Services (AWS), AWS AI","Seattle, WA"
+255,Amber Hutchinson,EMEA Recruiter (Corporate Operations and Logistics) at Amazon,Royaume-Uni
+256,Stephen Edridge,IT Manager at Amazon,"Spokane, WA"
+257,Sue Armstrong,"APJC Region Leader - Cloud Security & Infrastructure Global Speciality Practice, Amazon Web Services (AWS)","Sydney, NS"
+258,Michael Dolginov,Senior Software Developer at Amazon,"Toronto, ON"
+259,Sai Sachin S.,Software Engineer at Amazon,"San José, CA"
+260,Pelit Mamani,Software Engineer at Amazon,"Wahroonga, NS"
+261,Tao Xu,Amazon Lab126,"San José, CA"
+262,Mike Hendricks,"Head of Business Development, Connectivity, Amazon Smart Vehicles",Région de la baie de San Francisco
+263,Yuri Shatsman,Software Development Engineer at Amazon Web Services (AWS),"Tel-Aviv, Israël"
+264,Stuart Bladen,Public Sector Strategy Leader at Amazon Web Services,Leyde
+265,Kevin Hu,"Head of BD, IoT Solutions & APAC Partnerships, Alexa Smart Home at Amazon",Chaoyang
+266,Guy Ratcliffe,Senior Solutions Architect at Amazon Web Services (AWS),Windsor
+267,Asako Hayashi,Senior Product Manager at Amazon Lab126,"San Francisco, CA"
+268,Allex Lima,Solutions Architect at Amazon Web Services (AWS),Brésil
+269,"Simon John Garcia Field, MCIPS",Regional Procurement Manager Amazon,Royston
+270,Anubhav Chandra,Technical Program Manager at Amazon,Sacramento et périphérie
+271,"Max Atroshenko, OSCP",Security Engineer at Amazon,
+272,Denis Zakrevsky,VLSI Design lead at Amazon Web Services,Israël
+273,Biswadip Paul,Senior Product Manager - Tech at Amazon EU,Luxembourg
+274,Jared Levitt,Product & Sales Strategy | Amazon Ad Technology,"New York, NY"
+275,Gaurav Khanna,Senior Engineering Leader at Amazon Web Services (Hiring strong SDEs) | Phd in CS,Seattle et périphérie
+276,Robert (Bob) Coleman,Senior Software Development Manager at Amazon,"Toronto, ON"
+277,Kawshik Sarkar,Enterprise Solutions Architect at Amazon Web Services (AWS),"Arlington, VA"
+278,Oren Reuven Kaminer,Software Engineering Manager at Amazon,Israël
+279,Oles Valchuk,Software Development Manager at Amazon Lab126,"Sunnyvale, CA"
+280,Henry Kite,Software Engineer at Amazon,Cambridge et périphérie
+281,Vivek Dhankar,Device Developement Leadership at Amazon,"Sunnyvale, CA"
+282,Charles Poppe,Aviation Security Manager at Amazon,"Cincinnati, OH"
+283,Shashaankar Reddy Komirelly,Software Development Engineer at Amazon Web Services,"Seattle, WA"
+284,Afeef Ahmed,Business Development | Amazon,Londres
+285,Rohan Khade,Applied Scientist at Amazon,"San Francisco, CA"
+286,Chip Laws,Training Program Specialist at Amazon Web Services (AWS),Région de Washington DC-Baltimore
+287,Korkut Gule,"Senior Consultant, Data & Analytics at Amazon Web Services | Kind of a Data Plumber",Singapour
+288,Tejasi P.,Software Developer at Amazon Web Services (AWS),États-Unis
+289,Roopali Muddebihal,Product @ Amazon,Seattle et périphérie
+290,Mark Rowlands,Head of Solutions Architecture Pan-eu Public Sector at Amazon Web Services,Irlande
+291,Anandjit S. Grewal,Senior Human Resources Generalist at Amazon,"Brampton, ON"
+292,Paul Blendis,Senior Technical Program Manager at Amazon,Londres
+293,Mayank Mangal,Global Supply Manager at Amazon Web Services (AWS),"Greenville, SC"
+294,Chip Carr,Strategic Customer Engagements at Amazon Web Services (AWS),"Dallas, TX"
+295,"Derrick Bates, CIR",AWS ECT Recruiting Leader at Amazon Web Services (AWS),"Bothell, WA"
+296,Uri Zohar,Embedded Software Engineer at Amazon Web Services (AWS),Israël
+297,Renee M.,"Senior University Recruiter, MBA Recruiting at Amazon",Région de la baie de San Francisco
+298,Sneha Kedlaya,Senior Product Manager @ Amazon,"Seattle, WA"
+299,Ohad Boimel,Software Engineer,Israël
+300,Jason Morgan,Global Service Manager at Amazon Web Services (AWS),Burghfield Common
+301,Jesse (BoHung) Wu,Senior Technical Program Manager at Amazon (SW - Device OS),Région de la baie de San Francisco
+302,Joseph Abad,Senior Software Engineer at Amazon Lab126,"San Francisco, CA"
+303,Francesco Prato,Senior Manager at Amazon Web Services (AWS),Munich
+304,Nathanael Strawser,Software Engineer at Amazon,"Seattle, WA"
+305,Tharun K.,Amazon Robotics | Engineer | Mentor,"Seattle, WA"
+306,SUNG-PIL PAEK,Amazon SDE,Seattle et périphérie
+307,Jeff Higginson,Head of Infrastructure Server Sourcing and Supply Operations at Amazon Web Services (AWS),Seattle et périphérie
+308,Ganesh Bhat,Sr Software Development Engineer at Amazon,"Sunnyvale, CA"
+309,Alex Song,SDE at Amazon,"Seattle, WA"
+310,Meredith Bunche,Head of Amazon Grocery Global Instore & Advertising Products and Programs at Amazon,"Seattle, WA"
+311,Troy Cognata,COO | Strategic Operations Executive,"Seattle, WA"
+312,Cesare Ferri,Software Engineer at Amazon,États-Unis
+313,Meg Gibson,Human Resources Leader at Amazon,"Denver, CO"
+314,Bhupinder Sandhu,"ex-CPO, now Marketplace Specialist at Amazon Web Services (AWS)",Royaume-Uni
+315,Paul Kent,Amazon Advertising | UnLtd Ambassador,Sydney et périphérie
+316,Julie Valette,Head of Public Relations chez Amazon Operations France,France
+317,Hon Ping Shea,Software Development Engineer at Amazon Web Services,"Seattle, WA"
+318,Roshan Jhala,Whole Foods - Senior Principal Product Manager at Amazon,"Austin, TX"
+319,Lakhbir Kang,Partner Solutions Architect Manager at Amazon Web Services (AWS),Midlands de l'Ouest
+320,Dominic Clayden,"Microsoft on AWS SME, UK & Ireland, Enterprise at Amazon Web Services",High Wycombe
+321,Takeshi Miyazawa,Product Specialist / Strategy at Amazon Japan,Tokyo
+322,Daniel Bujak,Senior Dynamic Systems Firmware Engineer at Amazon Lab126,"Mountain View, CA"
+323,Rob Hainsworth,Senior Creative / Creative Lead at Amazon EU,Royaume-Uni
+324,Thomas Warnock,Sr. Cloud Infrastructure Architect at Amazon Web Services (AWS),"Fayetteville, NY"
+325,Gwendolyn Boyce,Amazon Advertising,"New York, NY"
+326,Peter Stirrup,Global Mobility Programme Manager EMEA at Amazon,Londres
+327,Carl Bou Khalil,Software Development Engineer at Amazon Web Services (AWS),"Brooklyn, NY"
+328,Craig Fuller,Director of Operations at Amazon Australia,"Melbourne, VI"
+329,Nidhi Mohta,Container Services Go-To-Market Strategy at Amazon Web Services (AWS) | Ex-Strategy&,Région de la baie de San Francisco
+330,Aaron Johnson,Senior Program Manager Japan and Americas Alexa International Quality at Amazon,Tokyo
+331,jacobo jover castiella,Country Manager Prime Video Channels,Paris et périphérie
+332,Sarah Ryle,"Senior manager, Content, Amazon Web Services Institute - public service digital transformation",Londres
+333,Angela Liu,Sr. GCM for WAN at Amazon,Shenzhen
+334,Yuli Fishkis,ASIC Verification Engineer at Amazon,Israël
+335,Scott Weddell,Global Financial Services (GFS) at Amazon Web Services (AWS),Royaume-Uni
+336,Srinivasan R,Product Leader / Solutions Architect at Amazon Alexa,Seattle et périphérie
+337,Matthew Heo,Senior Partner Success Manager - Amazon Web Services,Mapo-gu
+338,Pablo Delibes,Brand Strategy | Consumer Insights | Product Innovation | Advertising | FMCG (Ex P&G) | Amazon,Luxembourg
+339,Ayush Garg,Software Developer Amazon | MS Georgia Tech,"Seattle, WA"
+340,Venu Yalla,Principal Technical Program Manager @ Amazon.com,Seattle et périphérie
+341,Craig Young,Software Development Engineer at Amazon,"Los Altos, CA"
+342,Hua Gong,Software Engineer at Amazon,États-Unis
+343,Sunil Kumar,Software Development Engineer at Amazon,"Seattle, WA"
+344,Liusu Zeng,Software Engineer at Amazon Web Services QuickSight,"Issaquah, WA"
+345,Zhou Zhao,Software Engineer at Amazon,"Santa Clara, CA"
+346,Thiagaraja Gopalsamy,Senior Engineering Leader at Amazon,"Seattle, WA"
+347,Rohit Bansal,Software Engineer at Amazon,Seattle et périphérie
+348,,"Pick ,pack,chip at Amazon",Harrisburg et périphérie
+349,Archit Srivastava,Software Development Engineer 2 at Amazon Development Center,Lucknow
+350,Daniel Sünnen,Software Development Engineer at Amazon,Luxembourg
+351,Kimberly Sangwin-Remesnik,Software Development Engineer at Amazon,Seattle et périphérie
+352,Sixing (Cynthia) Lu,Applied Scientist at Amazon,Seattle et périphérie
+353,Hao Ren,Software Development Engineer at Amazon,"Seattle, WA"
+354,Ajay Kumar,Software Development Manager at Amazon,Bengaluru
+355,Ryan Romney,FPGA Development Manager at Amazon,"Liberty Lake, WA"
+356,Divyahaas Bhatia,Principal TPM at Amazon,Bengaluru
+357,Magdalena Gutkowska,Senior Technical Recruiter at AWS for Gdansk and Berlin. I am hiring Technical Recruiters in Gdansk!,Luxembourg
+358,Chenxi Shi,Software Development Engineer at Amazon,Boston et périphérie
+359,Derek Zhi,Software Engineer at Amazon,"Seattle, WA"
+360,Di Wu,Software Engineer at Amazon,Chine
+361,Ahmad Anbar,Software Development Engineer at Amazon Web Services,Région de Washington DC-Baltimore
+362,Aditya Deorha,"Software Development Engineer, Amazon | IIT Delhi",Région de la baie de San Francisco
+363,Ashish Palekar,"General Manager, Snapshots at Amazon Web Services (AWS)","Seattle, WA"
+364,Pinglei Guo,Software Engineer at Amazon Web Services (AWS),"Vancouver, BC"
+365,Simit Shah,Software Engineer at Amazon Web Services (AWS),"San José, CA"
+366,Barak Shimoni,Software Development Manager at Amazon Web Services (AWS),Israël
+367,Seishi Miki,Sr. Solution Architect at Amazon,Tokyo
+368,Pei-Hsuan Tsai,Software Development Engineer at Amazon,Berlin
+369,Ivan Terziev,Software Development Engineer at Amazon,"Vancouver, BC"
+370,Yiling Liu,AWS | Talent Development for AWS,Singapour
+371,Zhao Luo,Software Development Engineer at Amazon Web Services,"Sammamish, WA"
+372,Mobin Mohan,Software Development Engineer at Amazon Web Services,"San José, CA"
+373,Hao Hu,Senior Applied Scientist at Amazon,Seattle et périphérie
+374,Amit Shivnani,Engineering Leadership at Amazon,Région de la baie de San Francisco
+375,Daniel Mariniuc,"Senior Applied Scientist Manager at Amazon, Site Manager Amazon Timisoara, GM Ring Romania at Amazon","Județ de Timiș, Roumanie"
+376,Ting Ying,SDE at Amazon,Région métropolitaine de New York City
+377,Yue Yang,Software Engineer at Amazon,"Seattle, WA"
+378,Nahid H.,Android Engineer at Amazon,"Austin, TX"
+379,Richard Cao,Software Development Engineer at Amazon,"Seattle, WA"
+380,Vaibhav Jain,Software Development Engineer at Amazon,Seattle et périphérie
+381,Anton Rogozin,Software Engineer at Amazon,"Gyeonggi, Corée du Sud"
+382,Maen S.,(Hiring!) Senior Technical Product Manager at Amazon Web Services (AWS),"Cupertino, CA"
+383,Yajun Chen,Senior Software Development Engineer at Amazon Lab126,Région de la baie de San Francisco
+384,Zack Xiang,Software Development Engineer at Amazon,Londres
+385,Stuart Axelbrooke,Sr. Software Engineer in ML at Amazon,"Seattle, WA"
+386,Suzanne Eger,Senior Engagement Manager at Amazon Web Services (AWS),Région métropolitaine de Los Angeles
+387,Jeremy Hopkins,Principal Technical Program Manager at Amazon,"Austin, TX"
+388,Ivan Stojanovic,Senior Software Development Engineer at Amazon,"Vancouver, BC"
+389,Alyson Breslin,Recruiting Manager at Amazon Web Services (AWS),"Dallas, TX"
+390,Lucy Qin Zhou,"Software Engineer, Amazon",Région de la baie de San Francisco
+391,Jonas Rogers,Firmware Engineer at Amazon,Seattle et périphérie
+392,Carter Edmonds,Solutions Architect at Amazon Web Services (AWS),"Comté de Lexington, SC"
+393,Jingao H.,Software Development Engineer at Amazon,Canada
+394,Terry Goliath,Program Manager at Amazon Web Services (AWS),Municipalité de Johannesbourg
+395,Botao Xiao,SDE II at Amazon,"Toronto et périphérie, Canada"
+396,Kamyu L.,Software Engineer at Amazon,Région de la baie de San Francisco
+397,"Charlie Gruenwald, PhD",Sr Software Engineer at Amazon Web Services (AWS),"Boulder, CO"
+398,Mashhur Sattorov,Software Engineer at Amazon,"Vancouver, BC"
+399,Aishwarya Murkute,Software Development Engineer at Amazon,"Seattle, WA"
+400,Nathan Walker,Senior Solutions Architect at Amazon Web Services (AWS),"Campbell, CA"
+401,Tarik Arici,Senior applied scientist at Amazon,"New York, NY"
+402,Yunneng Wang,Software Development Engineer at Amazon Web Services (AWS),"Seattle, WA"
+403,Seung Min Choi,Software Engineer at Amazon,Royaume-Uni
+404,Igor Dozor,Software Development Manager at Amazon Web Services (AWS),"Seattle, WA"
+405,Shail Parikh,Senior Software Engineer at Amazon,"Seattle, WA"
+406,Filippo Sironi,Principal Engineer at Amazon,Dresde et périphérie
+407,Daiyan Alamgir,Senior Frontend Engineer at Amazon Web Services (AWS),"Highland Park, NJ"
+408,Marc C.,Software Engineer @ Amazon,Région de la baie de San Francisco
+409,Mesut Gorkem Eraslan,Principal Product Manager at Amazon,"Cupertino, CA"
+410,S. Gopala Krishnan,Senior Category Manager at Amazon,"Dubaï, Émirats arabes unis"
+411,Nieves Garcia Diez,"AI & ML BD lead, APJ Public Sector at Amazon Web Services (AWS) | AI for good",Sydney et périphérie
+412,Marty(Yunfeng) JIang,Consultant - Conversational AI at Amazon Web Services (AWS),"Seattle, WA"
+413,JT S Mundi,Solutions Architect at Amazon Web Services (AWS),"Seattle, WA"
+414,Gururaj Ananthateerta,AWS Infrastructure Networking at Amazon Web Services (AWS),Région de la baie de San Francisco
+415,Shahar Even-Zur,Vice President Of Engineering at Amazon Web Services (AWS),Netanya
+416,Ming-Hung Sun,Amazon SDE,Hsinchu
+417,Venkat Maithreya Paritala,Software Development Manager at Amazon Web Services (AWS),"Seattle, WA"
+418,Francis Flannery,Solutions Architect Amazon Web Services (AWS),Irlande
+419,Thuan Duong-Ba,Amazon MQ,Canada
+420,NIKHIL LOHIYA,Partner Insights Engineer at Amazon Web Services (AWS),Seattle et périphérie
+421,Ramaswami Lakshman,Senior Manager at Amazon India,Bengaluru
+422,Martyn Romanko,Software Engineer at Amazon,"Seattle, WA"
+423,Xin Xi,Engineer at Amazon Lab126,"San José, CA"
+424,Vikas Panghal,"Head of Product, Amazon SQS at Amazon Web Services (AWS)",Vancouver et périphérie
+425,Corey Harmon,Software Development Manager at Amazon Go,"Seattle, WA"
+426,Leroy Lobo,Sr. Manager at Amazon EU,Luxembourg
+427,Louise Rogers,Sr HR Leader at Amazon Web Services (AWS),"Sydney, NS"
+428,Sujan Kumar Gonugondla,Research Scientist at Amazon,États-Unis
+429,Amogh Gokhale,Software Development Engineer at Amazon,"Seattle, WA"
+430,Dan Weaver,Senior Software Development Engineer at Amazon,"Minneapolis, MN"
+431,Muhammad Huzaifa Elahi,Software Development Engineer at Amazon,"Toronto, ON"
+432,Neelam Rani,Senior Software Engineer at Amazon Lab126,"San Francisco, CA"
+433,Gina Avila,Global Marketing Lead at Amazon,"San Francisco, CA"
+434,Bruce McCorkendale,Senior Principal Engineer at Amazon Web Services (AWS),"Manhattan Beach, CA"
+435,Stephane Laveau,Senior Software Development Manager at Amazon,Région métropolitaine de New York City
+436,Ayanda Saki,Principal Customer Solutions Manager at Amazon Web Services (AWS),Municipalité de Johannesbourg
+437,Sebastian Klaassen,Software Development Engineer at Amazon Web Services (AWS),"West Vancouver, BC"
+438,Croi McNamara,"Global Media & Entertainment Executive, Amazon AWS","New York, NY"
+439,Ange Yaghi,SDE II at Amazon,"Mississauga, ON"
+440,Jeffrey Kalikstein,Hiring SDEs and SDMs to bring Amazon technology to Whole Foods Market.,"Austin, TX"
+441,Rajni Chada,Global Sustainability & Content Strategy at Amazon,Canada
+442,Alexander Nageswaran,Software Engineer @Amazon,"Austin, TX"
+443,Kaveesh wadhwa,Automation Test Lead at Amazon India,Gurgaon
+444,José Peñúñuri,Solutions Architect at Amazon Web Services,"Monterrey, NLE"
+445,Shobhit Kumar,Software Development Engineer at Amazon Development Center,Muzaffarnagar
+446,Firas Azrai,#Hiring - Amazon Product Managers and Leaders,"Austin, TX"
+447,John Klingner,Motion Planning Scientist at Amazon Robotics,"Boulder, CO"
+448,Netanel Belgazal,Staff Software Engineer at Amazon Web Services,Israël
+449,Dmitry Togushev,DevOps Engineer at Annapurnalabs an Amazon company,Tzoran-Kadima
+450,Lydia Hogan,Software Engineer at Amazon,"Colorado Springs, CO"
+451,jagadish nallapaneni,Sr Software Development Engineer at Amazon Inc,"San José, CA"
+452,Nick Wang,"SDM at Amazon, Connectivity solutions","Fremont, CA"
+453,Bryan Berezdivin,Lead Autonomous Vehicle Specialist,"Arlington, VA"
+454,"Harshesh Bhatt (MBA, PhD)",Operations Manager at Amazon,"Vaughan, ON"
+455,Mitesh Koradia,SDE-II at Amazon Device SW and Services,"Comté de Dublin, Irlande"
+456,Sharvari Deshpande,Business Analyst II at Amazon AWS,Région de la baie de San Francisco
+457,Prashanth CH,"Sr Manager Software Development, Amazon",Bengaluru
+458,EP Komarla,"Senior Technical Account Manager at Amazon Web Services, Amazon Inc",Région de la baie de San Francisco
+459,Dani Shaket,Software Engineer at Amazon Web Services,Israël
+460,Leon Mullally,Senior Program Manager | New Country Expansion at Amazon Web Services (AWS),Irlande
+461,Vishal Bharam,Software Engineer at Amazon Web Services (AWS),États-Unis
+462,Leena Vakil,Consumer Robotics at Amazon Lab126,"Sunnyvale, CA"
+463,Sunny Sapra,Scaling up businesses and functions across Asia | General Management | Strategy & Operations | ex-Uber | ISB,Singapour
+464,Fannie F.,Software Development Engineer at Amazon Web Services (AWS),Région de la baie de San Francisco
+465,Chris Baker,Senior Consultant for Migrations at Amazon Web Services (AWS),Brighton/Hove et périphérie
+466,Neil Travis,Regional Director Of Operations at Amazon,Royaume-Uni
+467,Muhammad Ulislam,Principal Solutions Architect at Amazon,"Bellevue, WA"
+468,Marc Runyan,Quantum Research Scientist at the Amazon Center for Quantum Computing,États-Unis
+469,Abby Huber,Sr. Business Development Manager at Amazon,"Seattle, WA"
+470,Sajjad Rehman,VP of Business Development @ Twitch/Amazon | Fulbright Scholar | Stanford MS & Cambridge MBA,Londres
+471,Srinath Kalavichirattil,Software Development Manager at Amazon Web Services (AWS),"Seattle, WA"
+472,Joris Verhaegen,SDE at Amazon,Cambridge
+473,Tara Thomas,SDE @ Amazon Lab126 | Apple | Broadcom | Purdue Engineering | NITC,"Austin, TX"
+474,Mark Oh,Software Engineer at Amazon,"Seattle, WA"
+475,Andy Milota,Sr Manager of DSP Firmware Development at Amazon Lab126 at Amazon Lab126,"San Ramon, CA"
+476,Shadi Ammouri,Senior Software Engineer at Amazon Web Services,Israël
+477,Dominic Fulginiti,Senior Technical Program Manager at Amazon,"Scottsdale, AZ"
+478,Simon Hovell,Head of EU Last Mile Capacity Planning at Amazon Logistics,Willingham
+479,Aurelie de Troyer,"SVP, Head of International Content @ Audible (Amazon)",Lambeth
+480,Mengqi Yang,Software Engineer at Amazon,Blackfriars
+481,Sathish Jothikumar,Senior Product Manager at Amazon Web Services (AWS),Seattle et périphérie
+482,Ryan W.,Software Development Engineer at Amazon,"Toronto, ON"
+483,Ashwin Balachandran,Senior Category Manager at Amazon,Mumbai
+484,Akshay Prabhu,Hiring Tech leader and developers for our Automation and Customer Engagement suite of products.,Bengaluru
+485,"Naushad Zaveri MS, MBA, PMP",Sr TPM - Alexa AI at Amazon,"Seattle, WA"
+486,Mark Stewart,"Senior Sales Specialist, Amazon Web Services",Londres
+487,Matt Gault,"Sales Lead / Customer Advisor -- AWS Marketplace, Southeast at Amazon Web Services (AWS)","Tampa, FL"
+488,Jonathan Cohen,Principal Engineer at Amazon Web Services (AWS),Israël
+489,"Victoria Riendeau, Cloud Migration Specialist","Cloud Migration Specialist, Amazon Web Services (AWS), Worldwide Public Sector",Richmond et périphérie
+490,Pavel Balas,Software Development Engineer at Amazon,Seattle et périphérie
+491,Orla O'Meara,Marketing and Sales Leader,West End
+492,Daneel Pang,Principal Product Manager - Tech at Amazon,"Redmond, WA"
+493,Ankit Agrawal,"Product Management, Amazon",Bengaluru
+494,Carsten Hansen,Software Design Engineer at Amazon Web Services,"Seattle, WA"
+495,Samuel Keen,EMEA Business Development Lead - Enterprise Transformation at Amazon Web Services (AWS),Oxford et périphérie
+496,Elton huang,Firmware Engineer at Amazon,Boston et périphérie
+497,Alexander Xiong,Software Development Engineer at Amazon Lab126,Région de la baie de San Francisco
+498,Sage Brennan,Program Manager at Amazon,Seattle et périphérie
+499,yair fridman,Physical Design Team Leader at Amazon Web Services,Israël
+500,Alyona Trubitsyna,Corporate Counsel - Amazon Payments,Londres
+501,Kaung Zaw,Outpost Operations Tech at Amazon Web Services (AWS),Singapour
+502,Charles Russell,Sales Operations Manager at Amazon Web Services (AWS),Sydney et périphérie
+503,Abbie Gavey,Head of Channel Marketing Amazon Devices,Kingston upon Thames
+504,Nick Gould,Enterprise Service Manager at Amazon Web Services (AWS),"Guildford, Royaume-Uni"
+505,Jaehun(Leon) Hwang,Amazon Web Services (AWS) Senior Security STAM,Corée du Sud
+506,Andy Chuang,Software Development Engineer at Amazon Web Services (AWS),"Melbourne, VI"
+507,Ji Zhang,Software Engineer at Amazon Web Services (AWS),"Seattle, WA"
+508,Hongmei Li,SDM at Amazon,Région de la baie de San Francisco
+509,Jia Liu,Software Development Engineer at Amazon,"Seattle, WA"
+510,Wanqiang Chen,Software Development Engineer at Amazon Web Services,"Sunnyvale, CA"
+511,Hao Ni,Software Development Engineer at Amazon,"Seattle, WA"
+512,Ningrui (Benn) Xu,Software Development Engineer at Amazon,"Toronto et périphérie, Canada"
+513,Jesus Camacho,Principal Software Development Engineer en Amazon,"Kirkland, WA"
+514,Dick Pang,Senior Camera Hardware Engineer at Amazon Lab126,RAS Hong Kong
+515,Siyu Du,"Software Engineer II - Amazon, We are hiring!","Seattle, WA"
+516,Suhas R.,SDE @ Amazon Alexa Speech Recognition,"Cambridge, MA"
+517,Pan Li,Software Engineer at Amazon,"San José, CA"
+518,Zhiyu Zhou,Software Development Engineer at Amazon,"Harrison, NJ"
+519,Samiuddin Mohammed,Sr Software Developer at Amazon,Mancherial
+520,Terry (Guoze) Tang,Software Engineer at Amazon Web Services (AWS),"Seattle, WA"
+521,Jonathan Moon,Software Engineering Intern at Amazon Web Services (AWS),"Comté de Tompkins, NY"
+522,Jou-ching (George) Sung,Machine Learning Engineer at Amazon,Région de la baie de San Francisco
+523,Nancy Nims,Software Support Engineer at Amazon,"Lynnwood, WA"
+524,Nazmus Sahadat,Applied Scientist at Amazon,"Seattle, WA"
+525,Tingyu LI,Software Development Engineer at Amazon Web Services (AWS),"Seattle, WA"
+526,Pei-Yun Liu,Quality Assurance Manager at Amazon,Taïwan
+527,Jordan Wills,Software Development Engineer at Amazon Lab126,"Austin, TX"
+528,Jizhou Zhang,Firmware Engineer at Amazon Scout,Seattle et périphérie
+529,Souvik Saha,Software Development Engineer at Amazon,"Irvine, CA"
+530,Dave Rafkind,Senior Software Development Engineer at Amazon,Boston et périphérie
+531,Ryan Yu,Software Engineer at Amazon,"Austin et périphérie, Texas"
+532,Henrik Balle,Sr. Solutions Architect at Amazon Web Services (AWS),"Alpharetta, GA"
+533,Prasanna Krishnaswamy,"Software Development Manager - Prime Video, Amazon | Hiring SDE’s and SDM’s",Bengaluru
+534,Abhyudai Nouni,Amazon | UMass | Goldman | IIT,Région métropolitaine de New York City
+535,Jianping Huang,Software Engineer Manager at Amazon Web Services (AWS),"Chappaqua, NY"
+536,Yijiong Rong,Software Development Engineer at Amazon,"Tempe, AZ"
+537,Xi Yang,Software Development Engineer at Amazon Lab126,Boston et périphérie
+538,Troy Patterson,Software Engineer at Amazon,Seattle et périphérie
+539,Tony Botzas,Principal Systems Architect at Amazon Lab126,"Sunnyvale, CA"
+540,Dror Fleischmann,Asic Design Manager at Annapurna Labs - Amazon Web Services,Israël
+541,Aditya Bodi,Software Development Engineer at Amazon,"Seattle, WA"
+542,Laura Reith,Solutions Architect at Amazon Web Services (AWS),"Auburn, WA"
+543,Dan Tecu,Software Development Engineer at Amazon,Seattle et périphérie
+544,Junle Lu,Software Development Engineer at Amazon,"New York, NY"
+545,Nishanth Vasisht,Software Development Manager at Amazon Prime Video,"Seattle, WA"
+546,Heet Dave,SDE at Amazon,"Seattle, WA"
+547,Bhavan Jasani,Applied Scientist II at Amazon AWS AI Computer Vision | Robotics @ Carnegie Mellon University,"Palo Alto, CA"
+548,Fidel S.,Software Development Manager at Amazon,"Toronto et périphérie, Canada"
+549,Sriram Gorti,Sr SDE at Amazon,Bengaluru
+550,Stan Kuznyuk,Software Engineer at Amazon,Seattle et périphérie
+551,Samiksha Arora,Software Development Engineer at Amazon,"San Francisco, CA"
+552,Shima Alizadeh,"Applied Scientist at AWS AI Labs, Amazon","Stanford, CA"
+553,Pallavi Sharma,Sr. PM-Tech@Amazon Web Services | PMM@Microsoft Azure | Biz dev@Intel,"Seattle, WA"
+554,Donglai Guo,Software Development Engineer at Amazon,"Seattle, WA"
+555,Darnell Moore,Principal Technical Program Manager for Academic Partnerships at Amazon,"Dallas, TX"
+556,Osama Dawood,Software Development Engineer at Amazon,"Burnaby, BC"
+557,Pralay Biswas,Senior Software Engineer at Amazon,"Seattle, WA"
+558,John Ethan Adams,Kernel/Hypervisor Engineer at Amazon Web Services (AWS),Dresde
+559,Aviv Bonomo,Chip Design Engineer @ AWS,"Tel-Aviv, Israël"
+560,Evan U.,Software Development Engineer at Amazon,Région métropolitaine de Nashville
+561,Daniel Pérez de Andrés,Software Development Engineer at Amazon,Madrid
+562,Andrew Raguse,Development Software Engineer at Amazon,"Berkeley, CA"
+563,Rustam Rakhimov,SDE at Amazon,"Vancouver, BC"
+564,Harshal Chakor,Entrepreneur and Software Engineer at Amazon,"San José, CA"
+565,Monica Joshi,Senior Software Engineering Manager at Amazon Web Services (AWS),Région de la baie de San Francisco
+566,Sachin Shelke,Software Engineer at Amazon Lab126,Pune
+567,Alex Tkatchev,Sr. ML Development Engineer at Amazon,"Seattle, WA"
+568,Liat Elichai,Software Engineer at Amazon Web Services (AWS),États-Unis
+569,Liang Nie,Software Development Engineer at Amazon,Canada
+570,Marco Visaya,Software Development Engineer at Amazon,Canada
+571,Gary Lee,Software Engineer at Amazon Lab126,Taipei
+572,Rishabh Dua,Program Manager at Amazon | Dartmouth | DTU,"Seattle, WA"
+573,Joshua Cowan,Principal Software Development Engineer at Amazon,"Seattle, WA"
+574,Abhiram Muralidhar,Machine Learning Engineer at Amazon Alexa,Région de la baie de San Francisco
+575,Charles Peach,Principal Electrical Engineer at Amazon,"Seattle, WA"
+576,Girish S Ghongdemath,Software Development Manager at Amazon (Now Hiring SDEs),"Sunnyvale, CA"
+577,Pierre Della Nave,MBA | Amazon | Ex-Microsoft | Tech development | Hardware | Program Management,"Londres et périphérie, Royaume-Uni"
+578,Sridhar Dasika,Senior Software Development Engineer at Amazon Web Services,"Sunnyvale, CA"
+579,Alok Mandloi,Senior Software Engineer at Amazon Live,"Seattle, WA"
+580,Makarand Damle,Senior Software Engineer at Amazon Lab126,"Sunnyvale, CA"
+581,Varun Reddy,Embedded Software Engineer at Amazon,"Seattle, WA"
+582,Ahmet Altındiş,Software Development Engineer at Amazon Alexa,Cambridge
+583,Zhiyi Wang,SDE at Amazon,"Seattle, WA"
+584,Michael Shteinbok,Embedded Software Manager at Amazon Web Services (AWS),Israël
+585,Aditi Deshpande,Sr.Technical Recruiter/ Manager at Amazon Lab126,"Milpitas, CA"
+586,Erwan Le Roy,Principal at Amazon | English Channel Solo Swimmer,Région de la baie de San Francisco
+587,Dilip Chhetri,Software Engineer at Amazon,"Fremont, CA"
+588,Anubha Mathur,Software Development Engineer at Amazon Lab126,"Sunnyvale, CA"
+589,Harry Burks,"Senior Manager, Accessibility and Internationalization, Amazon Lab126: I'm hiring a software development engineers! Apply here: bit.ly/3iFUBdQ","Los Altos, CA"
+590,Joe Sena,Software Development Manager at Amazon,"Kirkland, WA"
+591,Forum Gala,Software Engineer at Amazon Lab126,Région de la baie de San Francisco
+592,Jörg Baumgartl,Software Development Manager at Amazon - I'm hiring!,Édimbourg
+593,Matthias Einwag,Principal Software Development Engineer bei Amazon Web Services (AWS),"Vancouver, BC"
+594,Madin Kim,Software Engineer at Amazon,"Seattle, WA"
+595,Balu Nathan,Software Engineer at Amazon,"Mississauga, ON"
+596,Ze Wang,SDE at Amazon,"Mountain View, CA"
+597,Mahesh Venkateswaran,Software Development Engineer at Amazon Web Services,"Seattle, WA"
+598,Roberto Luis Bisbé,Senior Software Development Engineer @ Amazon Kindle,Madrid et périphérie
+599,"Goldi Goel (BTech, EMBA,PMP,CSM)","Engineering, Sr Manager Healthcare at Amazon","Seattle, WA"
+600,Erik Rainey,Senior Software Development Engineer at Amazon,"Austin et périphérie, Texas"
+601,Aparna P.,Sr Technical Program Manager at Amazon | Ex-Qualcomm | ISB | BITS-Pilani,Hyderabad
+602,Ian Coleman,Principal Software Engineer at Amazon Lab126,Région de la baie de San Francisco
+603,Vered Shani,Software Development Engineer at Amazon Web Services (AWS),Israël
+604,Nick Buker,Data Scientist at Amazon,"Seattle, WA"
+605,Victor Szeto,Design Manager at Amazon,Phoenix et périphérie
+606,Fiachra O'Driscoll,Senior Program Manager at Amazon,Irlande
+607,Rashid Sajjad,Global Lead Partner SA at Amazon Web Services (AWS),"Duluth, GA"
+608,Vanshika Jain,PM@Amazon,"Seattle, WA"
+609,Prathipa Rajenthiran,Software Engineer at Amazon Web Services (AWS),"Portland, OR"
+610,C Bala Kumar,"Senior Manager, Software Development (we are hiring!) at Amazon Lab126","Austin, TX"
+611,Abhishek Das,Senior Software Engineer at Amazon,"New York, NY"
+612,Gaurav Walia,Senior Engineer @ Amazon,Région de la baie de San Francisco
+613,Barry Evans,"Amazon AWS, Google Cloud Tech Ecosystem, Tech Exec, Startup Founder, CEO, Mentor","Palo Alto, CA"
+614,Arun Nayagam,Connectivity @ Amazon Lab126,Région de la baie de San Francisco
+615,John Streit,"EMEA Team Lead - Specialist Solution Architecture in Big Data, Analytics and AI/ML at Amazon Web Services",Londres
+616,Paul Wilcox,Senior Manager at Amazon Lab126,"Sunnyvale, CA"
+617,Kareem Edwards,Senior Manager - EU Launch and Expansion at Amazon,Londres
+618,Nithya Narayanamurthy,Software Development Engineer at Amazon,"Vancouver, BC"
+619,Francesco Salamida,Principal Solutions Architect at Amazon Web Services (AWS),Milan
+620,Emanuel Sanchez,Enterprise Account Manager en Amazon Web Services (AWS) - IBERIA,Barcelone
+621,Ari Kalfayan,Senior Business Development Manager at Amazon Web Services (AWS),"San Francisco, CA"
+622,Mohamed Alsubaie,Infrastructure Delivery and Network Scaling at Amazon Web Services (AWS),Bahreïn
+623,Edward Kim,Software Engineer at Amazon Web Services (AWS),"Cupertino, CA"
+624,Malavika Natu,"Global Alliance Manager, EMEA Team Lead at Amazon Web Services (AWS)",Bengaluru
+625,Abhisekh Baid,Senior Start-up Account Manager at Amazon Web Services (AWS),"Dubaï, Émirats arabes unis"
+626,Annappa Patil,Sr Business Development Manager at Amazon Internet Services Private Limited,Mumbai
+627,Sky Hou,Principal Operations Program Manager at Amazon,"Santa Clara, CA"
+628,Bhaumik Jain,Software Development Engineer at AWS | Computer Engineering Grad from NCSU | Amateur Pianist,"Raleigh, NC"
+629,Suvan Singh,Software Development Engineer at Amazon Web Services (AWS),Le Cap
+630,Paul Cooper,Sr FPGA Engineer at Amazon,"San Diego, CA"
+631,Shay Bruckmair,Senior Verification Engineer at Amazon Web services (AWS),Israël
+632,Alayne Gyetvai,HW Eng Manufacturing Quality and Operations at Amazon Web Services (AWS),Région de la baie de San Francisco
+633,Vijaykumar B.,Product @ AWS,Région de la baie de San Francisco
+634,Arun Rajanala,Director AWS,Région de la baie de San Francisco
+635,Stefano Lama,Senior Program Manager at Amazon,Tokyo
+636,Bilal Jilani Assoc CIPD,Area Manager at Amazon,Royaume-Uni
+637,Piyush Shah,Engineering Manager @ Amazon Alexa,"Seattle, WA"
+638,Weilun Huang,Technical Trainer at Amazon Web Services (AWS),Comté de Yilan
+639,Michael Ashade,Sales Strategy & Operations - Amazon Web Services (AWS),"Houston, TX"
+640,Olimpiu Dejeu,ASIC Design @ Amazon,Boston et périphérie
+641,Aruna Ravi,"Sr. Product Manager-Technical, Amazon Web Services",Seattle et périphérie
+642,Donna Yasay,"Senior Leader, Solutions Architecture at Amazon Web Services (AWS)","Los Gatos, CA"
+643,Myung Ho Yun,Amazon Web Services (AWS) AI/ML GTM Specialist,Corée du Sud
+644,Shivani Goel,"Principal Program Manager, Retail Experience Amazon","Sunnyvale, CA"
+645,Graham Finn,Corporate EHS Director at Amazon,Londres
+646,Firat Elbey,Product @ Amazon Alexa | Artificial Intelligence | Innovation,"Londres et périphérie, Royaume-Uni"
+647,Pavel Granovsky,Hardware Design Verification Engineer at Amazon Web Services,Israël
+648,Marcos Armendariz,Operations Manager at Amazon,"Bakersfield, CA"
+649,Tahir Khan,Senior Manager | International Payments Expansion @ Amazon | Chicago Booth MBA,"Seattle, WA"
+650,Jason Shim,"Software Developer Manager for Amazon World Wide Return, ReCommerce & Sustainability","Bellevue, WA"
+651,CC Sun,Premium Support Ops Manager at Amazon Web Services,Taïwan
+652,Robert St. John,Looking to hire software developers at Amazon @ Austin. Keep Amazon Weird. #Hiring,"Austin, TX"
+653,Gopi Rao,Alexa Devices Software at Amazon,États-Unis
+654,Amit Jain,Software Development Manager at Amazon Web Services (AWS) *Hiring*,Région de la baie de San Francisco
+655,Nathaniel Pohl,Software Engineer - Robotics at Amazon,"Boulder, CO"
+656,Larry French,Senior Program Manager - Global Programs at Amazon,"Irvine, CA"
+657,Michelle Lalljie,Chief of Staff and Operational Excellence Leader - Device Operations and Supply Chain at Amazon Lab126,Région de la baie de San Francisco
+658,Simon Champion,"Sr. Consultant, Migrations at Amazon Web Services (AWS)",Lancing
+659,Jeremy Lox-Folsom,Software Development Engineer at Amazon,"Seattle, WA"
+660,Simranjeet Sidhu,Products Leader at Amazon | E-commerce | Supply Chain | Amazon Fashion,Hyderabad
+661,Sergey Slepyan,Sr. Manager at Amazon Global Logistics,Seattle et périphérie
+662,Kevin Kelly,"Principal Business Development, Global Sports Partnerships at Amazon Web Services (AWS)","Seattle, WA"
+663,Daniel Martí,Applied Scientist at Amazon,"Seattle, WA"
+664,Guy Delamarter,Senior Software Development Engineer at Amazon Web Services,"Beaverton, OR"
+665,John Dalin,Software Development Engineer at Amazon,"Edmonds, WA"
+666,Rehan Ashraf,Embedded Software Engineer at Amazon Lab126,"Santa Clara, CA"
+667,Caroline Fenelon,Vendor Manager II at Amazon,"Seattle, WA"
+668,Vikas Gupta,"Program Management @ Amazon | Ex-EY, Intel","Seattle, WA"
+669,Venkat Sundaresan,Product Management at Amazon,"Menlo Park, CA"
+670,Anton J.,Physical Security & CSA BIM Thechnologist at Amazon Web Services.,Irlande
+671,Quentin Cassier,Senior Insights and Business Intelligence Manager at Amazon,Munich
+672,Jeanine Lewis,Contracts Manager at Amazon,"Seattle, WA"
+673,Brian Lane,Senior Product Manager - New Products at Amazon Lab126,"San José, CA"
+674,Sean O'Dell,Professional Services at Amazon Web Services,Londres
+675,jingyuan zhao,Software Engineer at Amazon Web Services (AWS),Boston et périphérie
+676,Tian Li,Software Development Engineer at Amazon Web Services (AWS),Région de la baie de San Francisco
+677,Kaixi JI,Software Engineer at Amazon,"Seattle, WA"
+678,Jianwei Gao,Embedded Software Engineer at Amazon,"Bellevue, WA"
+679,Vinay Kanakadandila,Software Development Engineer at Amazon,"Overland Park, KS"
+680,Yiting Shen,"Software Development Engineer at Amazon, Ring","Sunnyvale, CA"
+681,Porter Sherman,Software Engineer at Amazon in the Bay Area,"San Francisco, CA"
+682,Chenguang Yin,Senior Software Engineer at Amazon Web Services (AWS),"Seattle, WA"
+683,Tarun Gangwani,Software Developer Engineer II at Amazon,"Tempe, AZ"
+684,Simran Sindhwani,Software Development Engineer - Amazon,"Houston, TX"
+685,Xiaowei Tan,Software Engineer at Amazon,"Irvine, CA"
+686,Tianyuan (Tommy) Zhao,Software Development Engineer II at Amazon,"Mountain View, CA"
+687,Su Diao,Software Engineer at Amazon Web Services (AWS),Seattle et périphérie
+688,Laura Loghin,Software Engineer at Amazon Web Services (AWS),Roumanie
+689,Hongjia Li,Applied Scientist @Amazon | GHC 21',"Seattle, WA"
+690,Pratibha Rawat,Software Development Engineer II at Amazon Web Services (AWS),Seattle et périphérie
+691,Atharva Gokhale,Software Development Engineer at Amazon,"Toronto et périphérie, Canada"
+692,Xin Liu,Software Development Engineer at Amazon,"Seattle, WA"
+693,Zhizhao Keybo Qian,M.A.Sc. Software Engineering. Amazon,"Vancouver, BC"
+694,Shubha BC,Technical Program Manager at Amazon,"Redmond, WA"
+695,Zelin Hao,Software Development Engineer at Amazon Web Services (AWS),Seattle et périphérie
+696,Hsin Fang Tsai,Software Development Engineer II at Amazon,Madrid
+697,Boyou Zhou,Software Development Engineer at Amazon,"San José, CA"
+698,王晓华,Reliability Program Manager at Amazon Lab126,Shenzhen
+699,Jianye Liu,Software Engineer at Amazon,"Seattle, WA"
+700,Kuo-Wei Chung,Software Engineer at Amazon,"Seattle, WA"
+701,Jeff Lee,Software Development Engineer at Amazon,Région de la baie de San Francisco
+702,"Ryan Peterson, MBA, PMP, Veteran",Senior Program Manager at Amazon,"Seattle, WA"
+703,Wei Zhang,Software Development Engineer at Amazon,"Mountain View, CA"
+704,Weipeng Wang,Software engineer at Amazon,Région d’Urbana-Champaign
+705,Bob Moses,"Principal HW Engineer, Amazon Glow","Vashon Island, WA"
+706,Ramesh S.,Principal Engineer at Amazon,"Seattle, WA"
+707,Hardik Pandya,Software Development Engineer at Amazon,Bengaluru
+708,ASHWIN KRISHNA,Software Engineer at Amazon,"Seattle, WA"
+709,Yansong Hong,Frontend Engineer at Amazon Web Services (AWS),"Seattle, WA"
+710,Siddharth Venkatesan,Software Engineer at Amazon,"Ann Arbor, MI"
+711,Jiming Sun,Software Manager at Amazon Web Services,"Seattle, WA"
+712,Mark Lamp,Sr. Manager Americas - Global IT Services at Amazon,"Seattle, WA"
+713,Thao Truong,Software Development Engineer II at Amazon Web Services (AWS),"Seattle, WA"
+714,Feng Wang,Software Development Engineer II at Amazon,"Seattle, WA"
+715,Aashish Jain,"SDE, Alexa AI, Amazon","Arlington, VA"
+716,Raman Mittal,SOC Development at Amazon Lab126,Région de la baie de San Francisco
+717,Boyang Li,Software Engineer at Amazon,Région de la baie de San Francisco
+718,Tanushriya Singh,SDE at Amazon Web Services (AWS),Région de la baie de San Francisco
+719,James Morle,Principal Database Engineer at Amazon Web Services (AWS),"Austin, TX"
+720,Gurukrishnan Sridharan,Software Development Manager at Amazon,Bengaluru
+721,Pushkar Mandot,Software Development Engineer - Machine Learning at Amazon,"Seattle, WA"
+722,Yuchen (Kathy) Guo,Software Development Engineer at Amazon,"McLean, VA"
+723,phani harish wajjala,Software Engineer at Amazon,"Seattle, WA"
+724,Wally Ho,Software Development Manager Alexa Mobile at Amazon,"Bothell, WA"
+725,David Leong,Sr. Software Development Engineer at Amazon,"Richmond, BC"
+726,Emma Hafermann,Software Development Engineer at Amazon,"Boston, MA"
+727,Shashank Kuchibhotla,Software Engineer at Amazon,"Boston, MA"
+728,Zhen Zhang,Software Engineering Manager at Amazon Web Services (AWS),"Redmond, WA"
+729,Simran Sidhu,Solutions Architect at Amazon Web Services (AWS),"Toronto et périphérie, Canada"
+730,Yaser Raja,Principal Consultant at Amazon Web Services,Région métropolitaine de New York City
+731,Dhivya S.,"Software Engineer, Robotics Systems at Amazon Lab126","Mountain View, CA"
+732,Abhinav Ramakrishnan,Senior Software Engineer at Amazon,"Toronto, ON"
+733,Dhvani Vora,Software Development Engineer at Amazon,"Seattle, WA"
+734,Garret Fick,Senior Software Engineer at Amazon,"New York, NY"
+735,Balaji SK,"Engineering Manager, Amazon Devices",Chennai
+736,Sai Sathvick Chirakala,Software Development Engineer at Amazon Web Services (AWS) - Amazon Connect | Ex- Charles Schwab,"Dallas, TX"
+737,Toufic Halabi,Enabling Organizations to Digitally Transform,"Dubaï, Émirats arabes unis"
+738,Zexi Jesse Zhuang,Software Engineer at Amazon Alexa,"Seattle, WA"
+739,Bikram Kashyap,Senior Software Development Engineer at Amazon,"Mississauga, ON"
+740,Yaniv Halmut,Logic Design Engineer at Amazon,Israël
+741,Daniel Yeo PMP®,Senior Technical Program Manager at Amazon,"Detroit, MI"
+742,Vikas Jain,Software Engineer at Amazon,Édimbourg
+743,Harsh Jagpal,Senior Technical Program Manager at Amazon,"Bellevue, WA"
+744,Ramesh Godithi,Manager Hardware Engineering Amazon Web Services (AWS),Région de la baie de San Francisco
+745,Sid Thakur,"Strategic Finance, ISV Partner Network at Amazon Web Services (AWS)","Seattle, WA"
+746,Dan Ronald,Principal Product Manager at Amazon Web Services (AWS),"Vancouver, BC"
+747,Aaron Challenner,Principal Software Engineer at Amazon,"Cambridge, MA"
+748,Amal B.,Software Development Manager at Amazon | Hiring ML engineers for Alexa Speech Recognition,Région de la baie de San Francisco
+749,Ting-Chu Lee,Embedded Software Engineer at Amazon,Comté de Hsinchu
+750,Daniel Scully,"Senior Business Development Manager, UK & Nordics at Amazon Web Services (AWS)",Royaume-Uni
+751,Georges Savoundararadj,Software Engineer at Amazon,Seattle et périphérie
+752,Jianchun Dong,Amazon - Principal HW Engineer,"Palo Alto, CA"
+753,Nitin Nair,Software developer engineer I at Amazon Web Services (AWS),Seattle et périphérie
+754,Ritvik Khattar,Software Engineer at Amazon,"Seattle, WA"
+755,Manny Sidhu,Associate Partner Manager at Amazon Pay,Londres
+756,Jorg Huser,Principal Security Consultant - Security & Enterprise Solutions at Amazon Web Services (AWS),"Temecula, CA"
+757,Junjie Wang,Software Engineer @ Amazon Music,Seattle et périphérie
+758,Alan Cheng,Software Manager at Amazon Go | IoT | Cloud Service | Embedded System | Linux | Android | C++,"San José, CA"
+759,Om Oza,Senior Software Engineer at Amazon Alexa,Région de la baie de San Francisco
+760,Mounica Sirineni,Senior Product Manager | Prime at Amazon,Seattle et périphérie
+761,Tarun Sairam,Product Manager at Amazon Web Services (AWS),"Seattle, WA"
+762,Vinay Bhat,Software Dev Manager at Amazon,"Redmond, WA"
+763,Andy Lubin,Software Development Engineer at Amazon,Seattle et périphérie
+764,Aris V.,engineer at amazon,Seattle et périphérie
+765,Prateek R.,Senior Software Engineer at Amazon,"Seattle, WA"
+766,Chutian Shen,亚马逊 - SDE II at Amazon Pharmacy,"Seattle, WA"
+767,Poorva Bhatia,AWS Infrastructure Program Manager | Amazon,"Tampa, FL"
+768,Ayca Karatepe,Campaign & Creative Manager at Amazon | MSc TUM-BWL,Allemagne
+769,Akash Idnani,Software Development Engineer at Amazon Web Services (AWS),"Seattle, WA"
+770,Alvin Hua,Software Engineer at Amazon Web Services (AWS),"Arlington, VA"
+771,Ankur Gupta,Software Development Engineer @ Amazon,"Seattle, WA"
+772,Rudolf Potucek,Senior Solutions Architect Startup at Amazon Web Services (AWS),"Calgary, AB"
+773,Eyal Blum,Senior Software Development Engineer at Amazon,"Seattle, WA"
+774,Ivan Cui,Full Stack Data Scientist | Machine Learning Engineer | Data Scientist II at Amazon Web Services (AWS),"Newark, CA"
+775,Adil Belhouji,Senior Reliability Engineer chez Amazon Web Services (AWS),Paris et périphérie
+776,Kerui Xu,Data Scientist at Amazon Lab126,"Sunnyvale, CA"
+777,Guru Govindasamy,Lead Mechanical @ Amazon,Région de la baie de San Francisco
+778,Alex Matushevsky,Sr. Software Manager at Amazon Web Services (AWS),Israël
+779,Nigel Gulstone,Principal Engineer at Amazon Web Services,"Santa Clara, CA"
+780,Bob Wang,Software Development Engineer at Amazon,"Burnaby, BC"
+781,Verinder Singh,Software Development Engineer at Amazon Web Services (AWS),Sydney et périphérie
+782,Yi (Jacky) Yi,Senior Applied Scientist at Amazon,"Seattle, WA"
+783,Gregory Vandenbrouck,Principal Engineer at Amazon,"Bellevue, WA"
+784,Aaron Frenger,Software Engineering Manager at Amazon,"Holden, MA"
+785,Shovan Das,Senior Product Manager at Amazon Web Services (AWS),"Redmond, WA"
+786,Sonal Chaturvedi,SDE at Amazon,"San José, CA"
+787,Joshua Chong,Sr. Consultant at Amazon Web Services GFS,Singapour
+788,"Danielle Malone, CEM",Energy and Sustainability Manager at Amazon,Royaume-Uni
+789,"Punit Chiniwalla, Ph.D.","Investor, Advisor, LP to startups and venture funds | Corporate Development @ Amazon","San Francisco, CA"
+790,Arjun A.,Software Development Manager at Amazon,"Seattle, WA"
+791,Matthew Lowell,Sr SDE CPLD/FPGA at Amazon Web Services (AWS),"Seattle, WA"
+792,Vince Nicotra,Senior Software Engineer at Amazon,"Leesburg, VA"
+793,Osama Tariq,Regional Senior Manager | Strategic Programs | Middle East & North Africa,"Dubaï, Émirats arabes unis"
+794,Ansa Nisa,Technical Account Manager at Amazon Web Services (AWS),Kingston upon Thames
+795,Tania Zarraluqui,Senior Campaign Manager at Amazon,Londres
+796,Sateesh Kondapalli,Software Engineer at Amazon Web Services (AWS),Seattle et périphérie
+797,Joe Clark,Software Development Manager at Amazon Web Services (AWS) Hiring Software Engineers!,"Seattle, WA"
+798,Hitesh Subramanya Bhat,Software Engineer at Amazon,"Boston, MA"
+799,Hu Xiao,"SDE II, Amazon Web Services | University of Southern California, Graduate Student, Computer Science","Seattle, WA"
+800,Andrew Chen,Senior Data Analyst - Manager at Amazon,Région de la baie de San Francisco
+801,Ninad Kulkarni,Data Scientist at Amazon Web Services (AWS),Région de la baie de San Francisco
+802,Hany Amin,"Cloud Security @ Amazon Web Services (AWS) | Cyber Security Architect | DevSecOps | Telecom Security | MBA, MSc InfoSec, CISSP, CISM, CISA, CDGPE, GCIH, 2xAWS (SAA,SCS), OCSA, TOGAF, ITIL, JNCIP-SEC, OpenStack OCM100",Sydney et périphérie
+803,Arun Sampath,Firmware Engineer at Amazon Lab126,Région de la baie de San Francisco
+804,Daniel Sherress,"Reliability, Maintenance and Engineering Area Manager at Amazon",Dartford
+805,Santiago S.,Programmatic Solutions Consultant at Amazon,Espagne
+806,Sudhir Setty,"Business Development, ISVs, WW Public Sector at Amazon Web Services (AWS)","Frisco, TX"
+807,Johan Lasperas,Software Engineer at Amazon Redshift,Berlin
+808,Francesco Polimeni,Senior Solutions Architect presso Amazon Web Services (AWS),Rome
+809,Kenneth Louie,"Sr. Product Manager Technical at Amazon | MBA - Haas, UC Berkeley",Région de la baie de San Francisco
+810,"Samuel Yang, MBA, CSM",Strategic Program Manager SLG at Amazon Web Services (AWS),"Austin, TX"
+811,Simranjit S.,Software Development Engineer at Amazon,Vancouver et périphérie
+812,Daniyal Shafi,SDE at Amazon,"Los Angeles, CA"
+813,Ruei-Yao Sun,Software Development Engineer at Amazon,Région métropolitaine de New York City
+814,Chris Pickett,Sr Partner Solutions Architect at Amazon Web Services (AWS),Houston et périphérie
+815,Johannes Hausmann,Vendor Management @ Amazon | EBS Graduate | FC Bayern München,Munich et périphérie
+816,Oira Quinn,Data Centre Manager at Amazon Web Services (AWS),Irlande
+817,Gabriel Dorfman,"Principal Product Manager–Technical, Amazon","Seattle, WA"
+818,Alice Grenet,"Technical Sales Manager chez AbeBooks, an Amazon company",Munich
+819,Chang Liu,"Senior Manager, EU Supply Chain Analytics at Amazon",Hale
+820,Konstantin Kramer,CV Software Development Engineer at Amazon,Israël
+821,Daisy Daivasagaya,Business Development Manager at Amazon Web Services (AWS),"Boston, MA"
+822,"James ""Chip"" Hanneken",Sr Operation Manager,"Johnson City, TN"
+823,Jason Liu,Technical Program Manager at Amazon Ring,Taipei
+824,Andrew Rothfusz,Senior Security Solutions Architect at Amazon,"Winter Park, FL"
+825,Noah Flynn,Research Scientist II at Amazon,"Cambridge, MA"
+826,Herman Coomans,"Senior Manager, Solutions Architecture, Public Sector at Amazon Web Services",Melbourne et périphérie
+827,Sergej T.,"Senior Technology Executive advising CXOs on Hyperscale Cloud, SAP Digital Transformation, Innovation and Strategy",Londres
+828,Sebastian Zimmer,Amazon | E-Com & Fashion | University of Mannheim & ESCP,Berlin
+829,Dylan Peterson,Enterprise Sales Manager at Amazon Web Services,"Boulder, CO"
+830,Jean-Xia Chou,Senior Delivery Experience Analyst - Amazon Customer Service at Amazon,"Île-de-France, France"
+831,Angela Shin,Account Executive at Amazon,"Los Angeles, CA"
+832,Satish Lakshmanan,Global P&L Management Leader | Differentiated Product Strategy & Roadmap | Build Global Teams & Cross-Functional Collaboration | Evangelize Product Vision,"Milpitas, CA"
+833,Rami Yampolsky,Software Engineer at Amazon,"Seattle, WA"
+834,Caris Grant,Global Communities at Amazon,Londres
+835,Richard Parsons,"Head of EU Production Planning, Process and Analytics at Amazon",Hitchin
+836,Kasim Mahmood,Area Manager at Amazon,Londres
+837,Charles V.,Digital Business Consultant,"Phoenix, AZ"
+838,Ryan Mattson,Quality Manager at Amazon,Seattle et périphérie
+839,Richard Ogilby,Program Manager at Amazon Web Services (AWS),"Vancouver, BC"
+840,Azfar Inayatullah,AWS Storage Leader | Customer Obsession | Bias For Action | Invent & Simplify,Région métropolitaine de New York City
+841,Raj Patel,Finance Manager at Amazon Web Services (AWS),Londres
+842,Leigh Michael Pilcher,Operations Manager at Amazon,Leicester
+843,Dan Wolff,Finance Manager at Amazon Web Services (AWS),"Seattle, WA"
+844,Arpit Goyal,Amazon Web Services | Virginia Tech,"Seattle, WA"
+845,Siyang Liang,Software Development Engineer at Amazon,"Seattle, WA"
+846,Liu Xin,Software Development Engineer at Amazon,"Seattle, WA"
+847,Zhanyan Zhang,SDE at Amazon Web Services (AWS),Hartford et périphérie
+848,Chunfu Hou,Software Development Engineer at Amazon,"Seattle, WA"
+849,Kevin Boardman,Senior User Experience (UX) Designer at Amazon,Métropole du Cap
+850,Prakhar Mohan,Software Engineer at Amazon Web Services (AWS) - Amazon Lex,"Seattle, WA"
+851,Jay Dharmendra Solanki,Software Development Engineer II at Amazon,"Seattle, WA"
+852,Akhand Mishra,Software Development Engineer at Amazon,Varanasi
+853,Sheng Zhu,Software Development Engineer at Amazon,"Milpitas, CA"
+854,Calvin Liu,Software Engineer at Amazon,"Seattle, WA"
+855,Yuheng Du,Applied Scientist at Amazon,"Sunnyvale, CA"
+856,Xiyun(Vivian) Liu,Software Development Engineer II at Amazon,"Seattle, WA"
+857,Aditya Bajaj,Software Development Engineer at Amazon | Masters in Software Engineering,"Tempe, AZ"
+858,"David Ling, PMP",Principal Program Manager at Amazon Lab126,"Sunnyvale, CA"
+859,Vinit Kumar,SDE at Amazon,Seattle et périphérie
+860,Lawrence X.,Solutions Architect at Amazon Web Services (AWS),Singapour
+861,Varun Syal,Software Development Engineer 2 at Amazon,"Seattle, WA"
+862,Rongyue Cui,SDE I in Amazon AWS Web Service (AWS) Marketplace China,Chaoyang
+863,Mohit Modi,Software Engineer at Amazon,"Bellevue, WA"
+864,Changhao Huang,Software Engineer at Amazon Web Services,"San José, CA"
+865,Roger Lu,Software Development Manager at Amazon Web Services,Seattle et périphérie
+866,Yang Liu,Software Development Engineer at Amazon,"Seattle, WA"
+867,Shivang Acharya,"Software Development Manager, International Technology (INTech) at Amazon",Luxembourg
+868,Yuxuan Huang,"C++ Engineer, Perception at Amazon Robotics","Boulder, CO"
+869,Varun Joshi,Software Development Engineer 2 at Amazon,"Seattle, WA"
+870,Manuel Van Dyck,UX Designer at Amazon Japan,Tokyo
+871,Wangsong Jin,SDE at Amazon,Seattle et périphérie
+872,Aishwarya Lal,Software Development Engineer at Amazon Web Services (AWS),"Seattle, WA"
+873,Matthew Finitz,Software Engineering Manager at Amazon Game Tech,"Phoenix, AZ"
+874,Avital Aran,Verification Engineer at Amazon Web Services,"Nord, Israël"
+875,Bo Xia,SDE at Amazon,Canada
+876,Omi Karande,Software Development Engineer @ Amazon Photos,Seattle et périphérie
+877,Nansu Xu,SDE @Transparency @Amazon,"Seattle, WA"
+878,Elsa (Jun) Zhou,Software Development Engineer II at Amazon,"Vancouver, BC"
+879,Sajjan Kumar,Software Development Engineer at Amazon,"Gilbert, AZ"
+880,"Anindo Banerjee, P.E.",Pathways Leadership Program at Amazon | Chicago Booth MBA,États-Unis
+881,Cody Yu,"Senior Applied Scientist, AWS Deep Engine-Science | PMC, Apache TVM","Santa Clara, CA"
+882,Rod Fleck,Director Of Hardware Engineering - Kuiper Project at Amazon,"Bellevue, WA"
+883,Nicole Perkins,"Senior Manager, Creative Events, AWS Global Events Team at Amazon Web Services (AWS)","Los Angeles, CA"
+884,Erico B. Sanchez,Business Analyst at Amazon Web Services,Seattle et périphérie
+885,Zain Siddiqui,Software Engineer 2 at Amazon,"Seattle, WA"
+886,Weiran(Ray) Dai,Software Development Engineer II at Amazon Web Services (AWS),"San José, CA"
+887,Michael Apostol,"I’m hiring experienced software engineers, software managers and scientists into our beautiful Amazon office in Tempe!","Chandler, AZ"
+888,Matthew Lee,Machine Learning Engineer at Amazon,Région de la baie de San Francisco
+889,Yuming Ren,Software Engineer at Amazon Web Services (EMR),"Seattle, WA"
+890,Chunqiu Lu,Software Development Engineer at Amazon Web Services (AWS),Amsterdam
+891,Amy (Xiangyun) Chen,SDE II at Amazon,Seattle et périphérie
+892,Selina Zhang,Software Engineer at Amazon,"Seattle, WA"
+893,Manjunath Tamaka Shreerama,Software Development Manager at Amazon,Bengaluru
+894,Hoang Nguyen,Sr. Software Development Engineer - Amazon Lab126,"San José, CA"
+895,Akshay Balasubramanian,RTL Design Engineer at Amazon Web Services,"Austin, TX"
+896,Adham Abozaeid,Software Developer Engineer at Amazon,Phoenix et périphérie
+897,Abhay Bhorkar,Product@Amazon | Smart Home | Alexa | CX | Day 1,"Cupertino, CA"
+898,Larry Lai,Software Development Engineer at Amazon,Seattle et périphérie
+899,Tirth P.,Cloud Support Engineer - Networking at Amazon Web Services (AWS),"Dallas, TX"
+900,Mahitha Prasad,Embedded Software Engineer at Amazon,"San Diego, CA"
+901,"Di Wu, Ph.D.",Senior Engineering Team Lead at Amazon,"Seattle, WA"
+902,Siddharth Sharma,Security Engineer II at Amazon,"Dubaï, Émirats arabes unis"
+903,Noah Coad,"I deliver business insights through Internet of Things architectures, devices, analytics and ML using the AWS IoT Cloud.","Seattle, WA"
+904,Praveen Sankaranarayanan,Software Engineer at Amazon - Search Sciences & AI,Région de la baie de San Francisco
+905,Toby Idle,"Head of UK Workforce Staffing, AMZL at Amazon",Liverpool Street
+906,Chang Long Zhu Jin,Software Engineer at Amazon Lab126,Région de la baie de San Francisco
+907,Prachi Chachondia,Software Engineer at Amazon,"Seattle, WA"
+908,Durga Prasad Guntoju,Senior Software Development Engineer at Amazon,"Seattle, WA"
+909,Sobby Thakalath,Software Engineering Leader(AWS EC2 Nitro Systems) at Amazon Web Services (AWS),"Kirkland, WA"
+910,Yauheni Sivukha,Senior Software Development Engineer at Amazon,"Highland Park, NJ"
+911,Shagun Sood,SDE @ Amazon Go,South Goa
+912,Alex B.,Strategic Product & Engineering Leader,Région de la baie de San Francisco
+913,Ajay Joseph Thomas,Software Development Engineer 2 at Amazon,"Seattle, WA"
+914,Matheen Raza,Container Services GTM at Amazon Web Services (AWS),"Fremont, CA"
+915,Ranjith Rajkumar,Sr Solutions Architect at Amazon Web Services (AWS),Bengaluru
+916,Joanna Giddings,Product Marketing Manager at Amazon,Londres
+917,Himanshu Raghav,Senior Software Engineer at Amazon,"Orange, CA"
+918,lokesh kumar,Cloud Support Associate at Amazon,Hyderabad
+919,Neha Tambe,Software Development Engineer at Amazon,"San José, CA"
+920,Eli Bukstein,Senior Verification Engineer at Amazon Web Services (AWS),Zikhron Yaakov
+921,Jeoongsung Park,MODEM PHY DESIGN at Amazon,"San Diego, CA"
+922,Amey Prabhune,Software Development Engineer II at Amazon,Royaume-Uni
+923,Radu Tudoran,Software Development Manager at Amazon,Munich et périphérie
+924,Harold Ishebabi,Software Development Manager at Amazon,"Burnaby, BC"
+925,Supreeth Shettar,Cloud Architect at Amazon Web Services (AWS),Région de Washington DC-Baltimore
+926,Suraj Bhukebag,Software Development Engineer at Amazon Web Services (AWS),"Seattle, WA"
+927,Reza Golshan,Sr. TPM at Amazon Lab126,"Los Gatos, CA"
+928,Jinny Singh,Sr Software Engineer at Amazon,Région de la baie de San Francisco
+929,Eric Foxlin,Principal Sensor Systems Engineer at Amazon Lab126,Région de la baie de San Francisco
+930,Jitendra Kumar,SW Development Engineer at Amazon Lab126 (Robotics - Amazon Astro),"Sunnyvale, CA"
+931,Andy Taylor,Networking Specialist Solutions Architect at Amazon Web Services (AWS),Chessington
+932,Neha Tekriwal,Software Development Engineer at Amazon,Faridabad
+933,Robert Jones,"Sr. Principal Applied Scientist, Amazon Web Services","Beaverton, OR"
+934,Kaining(Ken) Chen,SDE I at Amazon,"Seattle, WA"
+935,Willem Mueller,SDE I at Amazon,"Toronto, ON"
+936,Mike Rohrmoser,"AWS IoT Edge to Outcome Solutions, AWS","Seattle, WA"
+937,Danny Marquette,Hardware Engineering Manager - AQUA hardware acceleration at Amazon Web Services (AWS),"Austin, TX"
+938,Ankur Thakkar,ASIC Engineer at Amazon,Boston et périphérie
+939,Tiger Hu,Software Engineer @ Amazon,"Rye, NY"
+940,Tomer Shahar,Physical Design Engineer at Amazon,Israël
+941,Xu (Steve) Zhang,Software Developer at Amazon,Canada
+942,Ariella Sasson,Global Life Sciences Solutions Architect at Amazon Web Services (AWS),"Highland Park, NJ"
+943,Guy Hershkovitz,Software Development Engineer at Amazon Web Services (AWS),Israël
+944,Roland Jones,Senior Reliability Engineer at Amazon Lab126,"San José, CA"
+945,Neerja Bhivandkar,Cloud Support Engineer - Networking at Amazon Web Services,"Boston, MA"
+946,Danny Nold,Software Engineer at Amazon Lab126,"Austin, TX"
+947,Sriram Panchanathan,"Director, Product and Tech, Amazon Freight (freight.amazon.com)",Seattle et périphérie
+948,Chang Liu,Software Engineer at Amazon,Londres
+949,Ran(Frank) Zhang,M.S. @ CMU | MLE @ Amazon,États-Unis
+950,Abhishek Mangal,Amazon AWS AI | Cisco | Georgia Tech | Ericsson | BITS Pilani,"Santa Clara, CA"
+951,Leonid Baryudin,Principal Software Development Engineer at Amazon Web Services (AWS),"San José, CA"
+952,Rasika Vaidya Kaura,"Product Leader - Product strategy, Building teams and B2B Data Products","Fremont, CA"
+953,Bruce Hsu,Sr. Tech Program Manager at Amazon,Taipei
+954,Mark Storey,Storage platform development @ Amazon Web Services (AWS),"Fort Collins, CO"
+955,Joseph A Dupelle Jr,Sr Manager Capture SLG/Edu at Amazon Web Services (AWS),"Great Falls, VA"
+956,Ali Milani,Senior Applied Scientist at Amazon,"San Francisco, CA"
+957,Mylene Hortaleza,Software Development Engineer in Test at Amazon Lab126,"Sunnyvale, CA"
+958,Roy Helayel,Senior Product Manager at Amazon Payment Services,"Dubaï, Émirats arabes unis"
+959,Michael Snook,Senior Software Development Engineer at Amazon,Région métropolitaine de Los Angeles
+960,Sundar Ranganathan,Global Head of Business Development - ML Frameworks at Amazon Web Services (AWS),"San Francisco, CA"
+961,Roy Shor,DFT Engineer at Amazon Web Services,Israël
+962,Thomas Henley,Senior Solutions Architect at Amazon,"Orange, CA"
+963,Kelvin Mayo,"Director, WW Training and Certification Sales & Delivery at Amazon Web Services (AWS)",Région de la baie de San Francisco
+964,Dhruvil Patel,Software Development Engineer at Amazon,"Seattle, WA"
+965,Tony McBryan,Senior Machine Learning Scientist at Amazon,Édimbourg et périphérie
+966,Greg Willis,CTO. Product & Technology Innovation.,"Sydney, NS"
+967,Abhishek Men,Software Engineer at Amazon Lab126 (Wireless),Pune
+968,Valentin Bader,DFT Engineer at Amazon Web Services,Israël
+969,Andrew Roths,Senior Principal Security Engineer at Amazon,"Kenmore, WA"
+970,Samira Naraghi,Global Business & Tech Transformation | Scale Leader,Région de la baie de San Francisco
+971,Abinash Paudel,Software Development Engineer II at Amazon Web Services (AWS),"Région métropolitaine de Portland, Oregon"
+972,Xuebin Yang,Senior Modem FW Engineer at Amazon,"Issaquah, WA"
+973,Sui Fung Alex Wong,Software Development Engineer at Amazon,"Seattle, WA"
+974,Sai H.,Senior Data Scientist at Amazon,"Seattle, WA"
+975,Amanda Fleischman,EU Senior Program Manager at Amazon's Prime Now,Luxembourg
+976,Tony Hsiao,Software Development Engineer at Amazon Lab126,"San José, CA"
+977,Arash Jamalian,Sr. Software Developer Engineer at Amazon Web Services,Région de la baie de San Francisco
+978,Luke Anderson,"Head of Data Management, APJ","Sydney, NS"
+979,Shay Gluxman,Senior BackEnd Physical Design Engineer at Amazon,Israël
+980,Clarence Tso,SDE 1 at Amazon,"Plano, TX"
+981,"Larissa Newman, CP APMP",AWS Markeplace Customer Advisor at Amazon Web Services (AWS),"Chicago, IL"
+982,Prasenjit Moitra,Product @ Amazon | Process and Tech Innovation,Hyderabad
+983,John Hubberts,Sr. Software Development Engineer - Amazon Halo,"Seattle, WA"
+984,Kishankumar Parikh,Software Development Engineer at Amazon,"Elkton, VA"
+985,Aftab Alam,"Technical Program Manager at Amazon (AWS) - (Certified TOGAF, PMP) - growing in Solution Design and Architecture",Dresde
+986,Navin K.,Software Development Engineer II at Amazon,"Seattle, WA"
+987,Kelley Paradis (Carson),Global Compliance Program Manager at Amazon,"Tucson, AZ"
+988,Sebastian Mitelberg,SW Engineer at Amazon Web Services (AWS),Israël
+989,Ankit Mathur,Software Engineer at Amazon,Pune
+990,Satchidanand Haridas,Software Development Engineer at Amazon,"Seattle, WA"
+991,Antal (Anti) Gyori,Sr Product Manager - Tech at Amazon Web Services (AWS) | UCLA MBA,Région métropolitaine de Los Angeles
+992,Pavan Pinnamaneni,Software Engineer @ Merch by Amazon,"Seattle, WA"
