@@ -61,16 +61,16 @@ if __name__ == '__main__':
     for search_key in search_keywords:
         if ' ' in search_keywords:
             search_key= search_key.replace(' ', "%20")
-        num = how_many_employees(driver, search_key)
-        num_employees.append(int(num))
+        num = how_many_employees(driver, search_key).encode('ascii', 'ignore').decode("utf-8")
+        num_employees.append(num)
 
 
     df = pd.DataFrame(list(zip(search_keywords, num_employees)),columns =['Fields', 'Number of employees'])
     df.to_csv('Employees_per_field.csv', index=True, encoding='utf-8')
 
-    print(df)
+    
 
+    df["Number of employees"]  = pd.to_numeric(df["Number of employees"])
 
-
-    # sbn.barplot(x='Fields', y='Number of employees', data=df).set(title="Total number of employees per field : Software, Hardware and Data science")
-    # plt.show()
+    sbn.barplot(x='Fields', y='Number of employees', data=df).set(title="Total number of employees per field : Software, Hardware and Data science")
+    plt.show()

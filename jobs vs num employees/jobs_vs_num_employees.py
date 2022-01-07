@@ -93,8 +93,8 @@ if __name__ == '__main__':
 
 
     signin_linkedin(driver, email_linkedin, password_linkedin)
-    num1 = how_many_employees_linkedin(driver, search_key[0])
-    num_emp.append(int(num1))
+    num1 = how_many_employees_linkedin(driver, search_key[0]).encode('ascii', 'ignore').decode("utf-8")
+    num_emp.append(num1)
     Signin_glassdoor(driver, email_glassdoor, password_glassdoor)
     num2 = how_many_jobs_glassdoor(driver, search_key[0])
     num_jobs.append(int(num2))
@@ -103,9 +103,11 @@ if __name__ == '__main__':
     df = pd.DataFrame(list(zip(search_key, num_jobs ,num_emp)), columns=["Field", "jobs", "number of employees"])
     df.to_csv('num_employees_and_jobs.csv', index=False, encoding='utf-8')
 
+    df["number of employees"] = pd.to_numeric(df["number of employees"])
+
     sbn.set(style='white')
 
     #create stacked bar chart
-    df.set_index('Field').plot(kind='bar', stacked=True, color=['steelblue', 'red'])
+    df.set_index('Field').plot(kind='bar', stacked=False, color=['steelblue', 'red'])
 
     plt.show()
