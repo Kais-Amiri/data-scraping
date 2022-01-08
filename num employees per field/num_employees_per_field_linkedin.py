@@ -49,8 +49,6 @@ if __name__ == '__main__':
     #write your password
     password_linkedin = ""
 
-    save_path = "C:/Users/Desktop/save/linkedin"
-
     search_keywords = ["Software", "Hardware", "Data science"]
     num_employees=[]
 

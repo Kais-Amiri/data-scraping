@@ -4,6 +4,9 @@ import time
 import os
 import json
 import pandas as pd
+import seaborn as sbn
+import matplotlib.pyplot as plt
+import numpy as np
 
 
 def signin_linkedin(driver, linkedin_email, linkedin_password):
@@ -93,8 +96,8 @@ if __name__ == '__main__':
     password_linkedin = ""
 
     all_employees = []
-
-    save_path = "C:/Users/Desktop/save/linkedin"
+    #folder path where you want to save the json file
+    save_path = ""
 
     search_keywords = ["Chip"]
 
@@ -120,3 +123,11 @@ if __name__ == '__main__':
 
         df = pd.DataFrame(all_employees, columns=['name', 'title', 'location'])
         df.to_csv('Amazon_'+ search_keyword+ '_employees_linkedin.csv', index=True, encoding='utf-8')
+#filter chip employees 
+    df["title"] = np.where(df["title"].str.find("Chip")>-1,"Amazon Chip Employee",df["title"][df.index])
+
+    employees_types = ["Amazon Chip Employee"]
+    subdf = df.loc[df['title'].isin(employees_types), :]
+#plot there geographical distribution
+    sbn.stripplot(x="title", y="location", data=subdf, hue="title").set(title="Geographical distribution of Chip designers")
+    plt.show()
